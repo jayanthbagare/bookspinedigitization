@@ -1,0 +1,9 @@
+opencv-python>=4.5.0
+numpy>=1.21.0
+pillow>=8.0.0
+pytesseract>=0.3.8
+google-cloud-vision>=2.0.0
+requests>=2.25.0
+torch>=1.9.0
+torchvision>=0.10.0
+ultralytics>=8.0.0
