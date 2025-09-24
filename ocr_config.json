@@ -3,7 +3,7 @@
   "google_vision": {
     "enabled": true,
     "use_fallback": true,
-    "credentials_path": "/home/jayanthbagare/Projects/service_account_key.json",
+    "credentials_path": "path_to/service_account_key.json",
     "project_id": "plated-cabinet-473102-r7",
     "confidence_threshold": 0.5
   },
