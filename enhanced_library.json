@@ -1,455 +1,2077 @@
 [
   {
-    "title": "CONDARIES Holland Ludwig von Bertalanffy GENERAL SYSTEM THEORY steven strogatz sung the emerging science GEORGE BRAZILLER",
+    "title": "I Fifty Shades of Grey EL James C CENTURY",
     "author": "",
-    "confidence": 0.94375,
+    "confidence": 0.8833333333333333,
     "bbox": [
-      3392,
-      788,
-      3647,
-      2052
+      3122,
+      209,
+      3388,
+      1365
     ],
-    "raw_text": "CONDARIES Holland Ludwig von Bertalanffy GENERAL SYSTEM THEORY steven strogatz sung the emerging science GEORGE BRAZILLER",
-    "cleaned_title": "CONDARIES Holland Ludwig von Bertalanffy GENERAL SYSTEM THEORY steven strogatz sung the emerging science GEORGE BRAZILLER",
+    "raw_text": "I Fifty Shades of Grey EL James C CENTURY",
+    "cleaned_title": "Fifty Shades of Grey James CENTURY",
     "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "... 777 Edelman A \"TURTLES, TERMITES, AND TRAFFIC JAMS COMPLEXITY, ENTROPY & THE PHYSICS OF INFORMATION, VOLUME I Zurek",
-    "author": "",
-    "confidence": 0.8520833333333333,
-    "bbox": [
-      286,
-      733,
-      661,
-      2143
-    ],
-    "raw_text": "... 777 Edelman A \"TURTLES, TERMITES, AND TRAFFIC JAMS COMPLEXITY, ENTROPY & THE PHYSICS OF INFORMATION, VOLUME I Zurek",
-    "cleaned_title": "... 777 Edelman TURTLES, TERMITES, AND TRAFFIC JAMS COMPLEXITY, ENTROPY THE PHYSICS OF INFORMATION, VOLUME Zurek",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "1947864319",
-      "publisher": "",
-      "published_date": "2020-03-31",
-      "description": "The specter of information is haunting sciences. With these words, Wojciech H. Zurek invited fellow scientists to attend the 1989 Santa Fe Institute workshop on which this proceedings volume is based. Thermodynamics, statistical mechanics, the quantum theory of measurement, the physics of computation, dynamical systems, molecular biology, and computer science-information remains central to the 32 essays collected in this new edition of Complexity, Entropy & the Physics of Information. Like the original meeting, this two-volume reprint explores the connections between quantum and classical physics, information and its transfer, computation, and their significance for the formulation of physical theories. A newly written introduction from attendee Seth Lloyd contextualizes the significance of this record of a meeting that marked the intersection of information, physics, complexity, and computation.",
-      "categories": [],
-      "page_count": 0,
-      "language": "en"
-    }
-  },
-  {
-    "title": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE E SOCIAL UNIVERSE Miller",
-    "author": "- الليبية לס COM EN THE INF",
-    "confidence": 0.8975,
-    "bbox": [
-      0,
-      768,
-      314,
-      2140
-    ],
-    "raw_text": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE E SOCIAL UNIVERSE Miller -- الليبية לס COM EN THE INF",
-    "cleaned_title": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE SOCIAL UNIVERSE Miller",
-    "cleaned_author": "الليبية COM THE INF",
-    "google_books_metadata": {
-      "isbn": "1947864440",
-      "publisher": "",
-      "published_date": "2022-11-30",
-      "description": "If we could rewind the tape of the Earth's deep history back to the beginning and start the world anew-would social behavior arise yet again? While the study of origins is foundational to many scientific fields, such as physics and biology, it has rarely been pursued in the social sciences. Yet knowledge of something's origins often gives us new insights into the present. In Ex Machina, John H. Miller introduces a methodology for exploring systems of adaptive, interacting, choice-making agents, and uses this approach to identify conditions sufficient for the emergence of social behavior. Miller combines ideas from biology, computation, game theory, and the social sciences to evolve a set of interacting automata from asocial to social behavior. Readers will learn how systems of simple adaptive agents-seemingly locked into an asocial morass-can be rapidly transformed into a bountiful social world driven only by a series of small evolutionary changes. Such unexpected revolutions by evolution may provide an important clue to the emergence of social life.",
-      "categories": [
-        "Computers"
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9781612130293",
+        "title": "Fifty Shades Of Grey",
+        "authors": [
+          "E L James"
+        ],
+        "publisher": "Sourcebooks, Inc.",
+        "published_date": "2012-04-03",
+        "description": "\"And in this quiet moment as I close my eyes, spent and sated, I think I'm in the eye of the storm. And in spite of all he's said, and what he hasn't said, I don't think I have ever been so happy.\" When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms. Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success—his multinational businesses, his vast wealth, his loving family—Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey's secrets and explores her own dark desires. An Instant #1 New York Times Bestseller More than 165 Million Copies Sold Worldwide One of 100 Great Reads in the Great American Read 133 Weeks on the New York Times Bestseller List This book is intended for mature audiences.",
+        "categories": [
+          "Fiction"
+        ],
+        "page_count": 657,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 50.172413793103445
+      },
+      "alternative_matches": [
+        {
+          "isbn": "1523849916",
+          "title": "Fifty Shades of Grey",
+          "authors": [
+            "E. L. James"
+          ],
+          "publisher": "",
+          "published_date": "2016-02-03",
+          "description": "When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her, too-but on his own terms. Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success-his multinational businesses, his vast wealth, his loving family-Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey's secrets and explores her own dark desires.This book is intended for mature audiences.",
+          "categories": [],
+          "page_count": 354,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 50.172413793103445
+        },
+        {
+          "isbn": "9781612130613",
+          "title": "Fifty Shades Freed",
+          "authors": [
+            "E L James"
+          ],
+          "publisher": "Sourcebooks, Inc.",
+          "published_date": "2012-04-17",
+          "description": "\"Christian, I've been yours since I said yes.\" I scoot forward, cupping his beloved face in my hands. \"I'm yours. I will always be yours, husband of mine. Now, I think you're wearing too many clothes.\" When unworldly student Anastasia Steele first encountered the driven and dazzling young entrepreneur Christian Grey it sparked a sensual affair that changed both of their lives irrevocably. Shocked, intrigued, and, ultimately, repelled by Christian's singular erotic tastes, Ana demands a deeper commitment. Determined to keep her, Christian agrees. Now, Ana and Christian have it all—love, passion, intimacy, wealth, and a world of possibilities for their future. But Ana knows that loving her Fifty Shades will not be easy, and that being together will pose challenges that neither of them would anticipate. Ana must somehow learn to share Christian's opulent lifestyle without sacrificing her own identity. And Christian must overcome his compulsion to control as he wrestles with the demons of a tormented past. Just when it seems that their strength together will eclipse any obstacle, misfortune, malice, and fate conspire to make Ana's deepest fears turn to reality. Discover the world of Fifty Shades of Grey: An Instant #1 New York Times Bestseller More than 165 Million Copies Sold Worldwide One of 100 Great Reads in the Great American Read 133 Weeks on the New York Times Bestseller List This book is intended for mature audiences.",
+          "categories": [
+            "Fiction"
+          ],
+          "page_count": 679,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 37.758620689655174
+        },
+        {
+          "isbn": "9781626010017",
+          "title": "The Secret Life of EL James",
+          "authors": [
+            "Marc Shapiro"
+          ],
+          "publisher": "Riverdale Avenue Books LLC",
+          "published_date": "2012-12-17",
+          "description": "Everyone wants to know how EL James, a middle-aged mom of two from the London suburbs became the best-selling author of all time, with over a million books selling worldwide in less than a year, and now a major motion picture. Read this book to find out exactly how she did it. Inside you’ll learn how she wrote her first draft based on Twilight fan fiction, and how she rewrote it as the book we know and love today, the rough and tumble process of editing, and how she assembled a group of dedicated fans herself that brought this smutty masterpiece to the rest of the world, Inside these pages is the step-by-step process by which this middle-aged British mother came up with the international best-selling erotic romance series that has sold more copies than Harry Potter and Gone with the Wind combined! NY Times best-selling biographer Marc Shapiro uncovers the inspiration and secrets behind this writing sensation, explaining how she did it with exclusive interviews with her editors and early fans.",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "page_count": 99,
+          "language": "en",
+          "search_strategy": "Cleaned title: Fifty Shades of Grey James",
+          "priority": 4,
+          "confidence_score": 29.48275862068966
+        },
+        {
+          "isbn": "9781101946350",
+          "title": "Grey",
+          "authors": [
+            "E L James"
+          ],
+          "publisher": "Sourcebooks, Inc.",
+          "published_date": "2015-06-18",
+          "description": "E L James revisits the world of Fifty Shades with a deeper and darker take on the love story that has enthralled millions of readers around the globe. \"I've never felt this desire, this . . . hunger before. It's a new feeling, new and shiny. I want so much from her: her trust, her obedience, her submission. I want her to be mine, but right now . . . I'm hers.\" Christian Grey exercises control in all things; his world is neat, disciplined, and utterly empty—until the day that Anastasia Steele falls into his office, in a tangle of shapely limbs and tumbling brown hair. He tries to forget her, but instead is swept up in a storm of emotion he cannot comprehend and cannot resist. Unlike any woman he has known before, shy, unworldly Ana seems to see right through him—past the business prodigy and the penthouse lifestyle to Christian's cold, wounded heart. Will being with Ana dispel the horrors of his childhood that haunt Christian every night? Or will his dark sexual desires, his compulsion to control, and the self-loathing that fills his soul drive this girl away and destroy the fragile hope she offers him? Discover the world of Fifty Shades of Grey: An Instant #1 New York Times Bestseller More than 165 Million Copies Sold Worldwide One of 100 Great Reads in the Great American Read 133 Weeks on the New York Times Bestseller List This book is intended for mature audiences.",
+          "categories": [
+            "Fiction"
+          ],
+          "page_count": 528,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 23.275862068965516
+        },
+        {
+          "isbn": "9781527517592",
+          "title": "Modern Fantasies on Love versus Classical Romances",
+          "authors": [
+            "Ljuba Tarvi"
+          ],
+          "publisher": "Cambridge Scholars Publishing",
+          "published_date": "2023-07-14",
+          "description": "Viewed through the lens of physics, love conquers nothing is the conclusion reached when love patterns in romances are viewed through laws of quantum physics. In this book, based on the metaphor “Love/Text is Energy,” love in fiction is interpreted in the same way as subatomic particles are studied in quantum mechanics — by investigating traces of their clashes in giant colliders, i.e., as Marx’s ‘converted forms’ of the protagonists’ conscious and unconscious decisions and actions. The book introduces the Token Valence Method, which assumes that a word, like an elementary particle, is neither a particle nor a wave but rather a quantum state. The TVM has revealed three models of love patterns in fiction: adaptation (21st century), alienation (20th century), and imagination (1991-2021).",
+          "categories": [
+            "Fiction"
+          ],
+          "page_count": 463,
+          "language": "en",
+          "search_strategy": "Cleaned title: Fifty Shades of Grey James",
+          "priority": 4,
+          "confidence_score": 15.0
+        }
       ],
-      "page_count": 0,
-      "language": "en"
-    }
-  },
-  {
-    "title": "THE OUTER LIMITS OF REASON NOSON S. YANOFSKY",
-    "author": "",
-    "confidence": 0.925,
-    "bbox": [
-      2808,
-      749,
-      3005,
-      2072
-    ],
-    "raw_text": "THE OUTER LIMITS OF REASON NOSON S. YANOFSKY",
-    "cleaned_title": "THE OUTER LIMITS OF REASON NOSON YANOFSKY",
-    "cleaned_author": "",
+      "total_found": 9,
+      "search_performed": true
+    },
     "google_books_metadata": {
-      "isbn": "1842550624",
-      "publisher": "",
-      "published_date": "2003",
-      "description": "Stephen Law follows THE PHILOSOPHY FILES with a second book of philosophical conundrums for teenagers. This time he asks such questions as Do Miracles Happen? Why Do These Words Mean Something? and Do I Know the Sun will Rise Tomorrow? You can dip into the arguments that interest you, in eight chapters where the themes are set up in witty scenarios and then debated. There are wacky thought experiments to work out and a variety of characters appear - some of them Martians. As in THE PHILOSOPHY FILES, there are hundreds of lively cartoons running through the book. Stephen Law is a brilliant communicator with a passion to make young people think for themselves. As the GUARDIAN said: 'It's philosophy in action rather than philosophy in aspic. . . a real philosophy book for kids - which students and adults could enjoy too - finally exists'.",
-      "categories": [
-        "Philosophy"
+      "isbn": "9781612130293",
+      "title": "Fifty Shades Of Grey",
+      "authors": [
+        "E L James"
       ],
-      "page_count": 202,
-      "language": "en"
+      "publisher": "Sourcebooks, Inc.",
+      "published_date": "2012-04-03",
+      "description": "\"And in this quiet moment as I close my eyes, spent and sated, I think I'm in the eye of the storm. And in spite of all he's said, and what he hasn't said, I don't think I have ever been so happy.\" When literature student Anastasia Steele goes to interview young entrepreneur Christian Grey, she encounters a man who is beautiful, brilliant, and intimidating. The unworldly, innocent Ana is startled to realize she wants this man and, despite his enigmatic reserve, finds she is desperate to get close to him. Unable to resist Ana's quiet beauty, wit, and independent spirit, Grey admits he wants her, too—but on his own terms. Shocked yet thrilled by Grey's singular erotic tastes, Ana hesitates. For all the trappings of success—his multinational businesses, his vast wealth, his loving family—Grey is a man tormented by demons and consumed by the need to control. When the couple embarks on a daring, passionately physical affair, Ana discovers Christian Grey's secrets and explores her own dark desires. An Instant #1 New York Times Bestseller More than 165 Million Copies Sold Worldwide One of 100 Great Reads in the Great American Read 133 Weeks on the New York Times Bestseller List This book is intended for mature audiences.",
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 657,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 50.172413793103445
     }
   },
   {
-    "title": "THE SIMULATION HYPOTHESIS RIZWAN VIRK",
+    "title": "At Bill Bryson Home Doubleday",
     "author": "",
     "confidence": 0.94,
     "bbox": [
-      2651,
-      756,
-      2819,
-      2097
+      1997,
+      122,
+      2252,
+      1387
     ],
-    "raw_text": "THE SIMULATION HYPOTHESIS RIZWAN VIRK",
-    "cleaned_title": "THE SIMULATION HYPOTHESIS RIZWAN VIRK",
+    "raw_text": "At Bill Bryson Home Doubleday",
+    "cleaned_title": "Bill Bryson Home Doubleday",
     "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "9780593854969",
-      "publisher": "Penguin",
-      "published_date": "2025-07-22",
-      "description": "The definitive exploration of one of the most daring and consequential theories of our time, completely revised and updated to reflect the rapid advances in artificial intelligence and virtual reality Are we living in a simulation? MIT computer scientist Rizwan Virk draws from research and concepts from computer science, artificial intelligence, video games, quantum physics, and ancient mystics to explain why we may be living inside a simulated reality like the Matrix. Simulation theory explains some of the biggest mysteries of quantum and relativistic physics, such as quantum indeterminacy, parallel universes, and the integral nature of the speed of light, using information and computation. Virk shows how the evolution of our video games, including virtual reality, augmented reality, artificial intelligence, and quantum computing, will lead us to a technological singularity. We will reach the simulation point, where we can develop all-encompassing virtual worlds like the OASIS in Ready Player One or The Matrix—and in fact we are already likely inside such a simulation. While the idea sounds like science fiction, many scientists, engineers, and professors have given the simulation hypothesis serious consideration, including Elon Musk, Neil deGrasse Tyson, and Nick Bostrom. But the simulation hypothesis is not just a modern idea. Philosophers of all traditions have long contended that we are living in some kind of “illusion” and that there are other realities that we can access with our minds. The Simulation Hypothesis is the definitive book on simulation theory and is now completely updated to reflect the latest developments in artificial intelligence and virtual reality. Whether you are a computer scientist, a fan of science fiction like the Matrix movies, a video game enthusiast, a spiritual seeker, or simply a fan of mind-bending thought experiments, you will never look at the world the same way again.",
-      "categories": [
-        "Science"
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "At Home by Bill Bryson",
+        "authors": [
+          "Vicky Booth"
+        ],
+        "publisher": "",
+        "published_date": "2011",
+        "description": "",
+        "categories": [],
+        "page_count": 11,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 48.52173913043478
+      },
+      "alternative_matches": [
+        {
+          "isbn": "1409095622",
+          "title": "Bill Bryson the Complete",
+          "authors": [
+            "Bill Bryson"
+          ],
+          "publisher": "CCV Digital",
+          "published_date": "2010-03-02",
+          "description": "",
+          "categories": [],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 36.086956521739125
+        },
+        {
+          "isbn": "",
+          "title": "Bill Bryson in a Sunburned Country",
+          "authors": [
+            "Bill BRYSON"
+          ],
+          "publisher": "",
+          "published_date": "2000",
+          "description": "",
+          "categories": [
+            "Australia"
+          ],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 36.086956521739125
+        },
+        {
+          "isbn": "",
+          "title": "At Home",
+          "authors": [
+            "Bill Bryson"
+          ],
+          "publisher": "",
+          "published_date": "2013",
+          "description": "",
+          "categories": [],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 20.434782608695652
+        },
+        {
+          "isbn": "",
+          "title": "The Complete Notes",
+          "authors": [
+            "Bill Bryson"
+          ],
+          "publisher": "Doubleday UK",
+          "published_date": "2000",
+          "description": "\"After nearly two decades in Britain, Bill Bryson took the decision to move Mrs Bryson, little Jimmy et al. back to the States for a while. But before leaving his much-loved Yorkshire, Bryson insisted on taking one last trip around old Blighty, a sort of valedictory tour of the green and kindly island that had for so long been his home. The resulting book, Notes from a Small Island, is a eulogy to the country that produced Marmite, George Formby, by-elections, milky tea, place names like Farleigh Wallop, Titsey and Shellow Bowells, Gardeners' Question Time and people who say, 'Mustn't grumble.' Britain will never seem the same again. Once ensconced back home in New Hampshire, Bryson couldn't resist the invitation to write a weekly dispatch for the Mail on Sunday's Night & Day magazine. Notes from a Big Country is a collection of eighteen months' worth of his popular columns about that strangest of phenomena - the American way of life. Whether discussing the dazzling efficiency of the garbage disposal unit, the exoticism of having your groceries bagged for you, or the mind-numbing frequency of commercial breaks on American TV, Bill Bryson brings his inimitable brand of bemused wi",
+          "categories": [
+            "History"
+          ],
+          "page_count": 552,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        }
       ],
-      "page_count": 401,
-      "language": "en"
-    }
-  },
-  {
-    "title": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE E SOCIAL UNIVERSE Miller",
-    "author": "8 77 Te COMPLEXITY, ENTROPY & THE PHYSICS OF INFORMATION, VOLUME Zurek",
-    "confidence": 0.8714285714285714,
-    "bbox": [
-      105,
-      749,
-      460,
-      2125
-    ],
-    "raw_text": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE E SOCIAL UNIVERSE Miller - 8 77 Te COMPLEXITY, ENTROPY & THE PHYSICS OF INFORMATION, VOLUME Zurek",
-    "cleaned_title": "EX MACHINA: EVOLVING MACHINES THE ORIGINS OF THE SOCIAL UNIVERSE Miller",
-    "cleaned_author": "COMPLEXITY, ENTROPY THE PHYSICS OF INFORMATION, VOLUME Zurek",
+      "total_found": 5,
+      "search_performed": true
+    },
     "google_books_metadata": {
-      "isbn": "1947864440",
+      "isbn": "",
+      "title": "At Home by Bill Bryson",
+      "authors": [
+        "Vicky Booth"
+      ],
       "publisher": "",
-      "published_date": "2022-11-30",
-      "description": "If we could rewind the tape of the Earth's deep history back to the beginning and start the world anew-would social behavior arise yet again? While the study of origins is foundational to many scientific fields, such as physics and biology, it has rarely been pursued in the social sciences. Yet knowledge of something's origins often gives us new insights into the present. In Ex Machina, John H. Miller introduces a methodology for exploring systems of adaptive, interacting, choice-making agents, and uses this approach to identify conditions sufficient for the emergence of social behavior. Miller combines ideas from biology, computation, game theory, and the social sciences to evolve a set of interacting automata from asocial to social behavior. Readers will learn how systems of simple adaptive agents-seemingly locked into an asocial morass-can be rapidly transformed into a bountiful social world driven only by a series of small evolutionary changes. Such unexpected revolutions by evolution may provide an important clue to the emergence of social life.",
-      "categories": [
-        "Computers"
-      ],
-      "page_count": 0,
-      "language": "en"
+      "published_date": "2011",
+      "description": "",
+      "categories": [],
+      "page_count": 11,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 48.52173913043478
     }
   },
   {
-    "title": "MEADOWS RANDERS I MEADOWS LIMITS TO GROWTH CHELSEA GREEN",
-    "author": "",
-    "confidence": 0.9166666666666667,
-    "bbox": [
-      2497,
-      738,
-      2676,
-      2068
-    ],
-    "raw_text": "MEADOWS RANDERS I MEADOWS LIMITS TO GROWTH CHELSEA GREEN",
-    "cleaned_title": "MEADOWS RANDERS MEADOWS LIMITS GROWTH CHELSEA GREEN",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "KOCH then I am myself the world WHAT CONSCIOUSNESS IS AND HOW TO EXPAND IT BASIC BOOKS",
-    "author": "",
-    "confidence": 0.9147058823529411,
-    "bbox": [
-      1906,
-      783,
-      2111,
-      2060
-    ],
-    "raw_text": "KOCH then I am myself the world WHAT CONSCIOUSNESS IS AND HOW TO EXPAND IT BASIC BOOKS",
-    "cleaned_title": "KOCH then myself the world WHAT CONSCIOUSNESS AND HOW EXPAND BASIC BOOKS",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "9781541602816",
-      "publisher": "Hachette UK",
-      "published_date": "2024-05-07",
-      "description": "\"Deeply personal and infinitely digestible, Then I Am Myself the World is a remarkable must-read for anyone interested in knowing their mind.”―Judson Brewer MD, PhD, New York Times–bestselling author of Unwinding Anxiety The world’s leading investigator of consciousness argues that by understanding what consciousness does—cause change in the world—we can understand its origins and its future In Then I Am Myself the World, Christof Koch explores the only thing we directly experience: consciousness. At the book’s heart is integrated-information theory, the idea that the essence of consciousness is the ability to exert causal power over itself, to be an agent of change. Koch investigates the physical origins of consciousness in the brain and how this knowledge can be used to measure consciousness in natural and artificial systems. Enabled by such tools, Koch reveals when and where consciousness exists, and uses that knowledge to confront major social and scientific questions: When does a fetus first become self-aware? Can psychedelic and mystical experiences transform lives? What happens to consciousness in near-death experiences? Why will generative AI ultimately be able to do the very thing we can do, yet never feel any of it? And do our experiences reveal a single, objective reality? This is an essential book for anyone who seeks to understand ourselves and the future we are creating.",
-      "categories": [
-        "Psychology"
-      ],
-      "page_count": 240,
-      "language": "en"
-    }
-  },
-  {
-    "title": "NEW EDITION THE (MIS)BEHAVIOUR OF MARKETS BENOIT B. MANDELBROT AND RICHARD L. HUDSON",
-    "author": "",
-    "confidence": 0.890625,
-    "bbox": [
-      1395,
-      859,
-      1647,
-      2095
-    ],
-    "raw_text": "NEW EDITION THE (MIS)BEHAVIOUR OF MARKETS BENOIT B. MANDELBROT AND RICHARD L. HUDSON",
-    "cleaned_title": "NEW EDITION THE MIS BEHAVIOUR OF MARKETS BENOIT MANDELBROT AND RICHARD HUDSON",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "1861977654",
-      "publisher": "",
-      "published_date": "2004-01-01",
-      "description": "From the world-famous inventor of fractal geometry, a revolutionary new theory that turns on its head our understanding of how markets work. Fractal geometry is the mathematics of roughness: how to reduce the outline of a jagged leaf, a rocky coastline or static in a computer connection to a few simple mathematical properties - to make the complex simple. With his fractal tools, Benoit Mandelbrot has got to the bottom of how financial markets really work. He finds they have a shifting sense of time, a unique dimension and a wild kind of behaviour that makes them volatile, dangerous - and also beautiful. In Mandelbrot's fractal models, the complex gyrations of IBM's stock price, the FTSE 100, cotton trading and exchange rates can be reduced to straightforward formulae that yield a much more accurate description of the risks involved.",
-      "categories": [
-        "Capital market"
-      ],
-      "page_count": 328,
-      "language": "en"
-    }
-  },
-  {
-    "title": "EMERGENCE BAUDRILLARD SCRIBNER SIMULACRA SIMULATION STEVEN JOHNSON",
-    "author": "",
-    "confidence": 0.95,
-    "bbox": [
-      3072,
-      765,
-      3224,
-      2065
-    ],
-    "raw_text": "EMERGENCE BAUDRILLARD SCRIBNER SIMULACRA SIMULATION STEVEN JOHNSON",
-    "cleaned_title": "EMERGENCE BAUDRILLARD SCRIBNER SIMULACRA SIMULATION STEVEN JOHNSON",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "9780743218269",
-      "publisher": "Simon and Schuster",
-      "published_date": "2012-09-11",
-      "description": "In the tradition of Being Digital and The Tipping Point, Steven Johnson, acclaimed as a \"cultural critic with a poet's heart\" (The Village Voice), takes readers on an eye-opening journey through emergence theory and its applications. A NEW YORK TIMES NOTABLE BOOK A VOICE LITERARY SUPPLEMENT TOP 25 FAVORITE BOOKS OF THE YEAR AN ESQUIRE MAGAZINE BEST BOOK OF THE YEAR Explaining why the whole is sometimes smarter than the sum of its parts, Johnson presents surprising examples of feedback, self-organization, and adaptive learning. How does a lively neighborhood evolve out of a disconnected group of shopkeepers, bartenders, and real estate developers? How does a media event take on a life of its own? How will new software programs create an intelligent World Wide Web? In the coming years, the power of self-organization -- coupled with the connective technology of the Internet -- will usher in a revolution every bit as significant as the introduction of electricity. Provocative and engaging, Emergence puts you on the front lines of this exciting upheaval in science and thought.",
-      "categories": [
-        "Science"
-      ],
-      "page_count": 288,
-      "language": "en"
-    }
-  },
-  {
-    "title": "Kenneth O. Stanley Joel Lehman Stanley Lehman DIVERSITY AND COMPLEXITY Scott E. Page DONALD D. HOFFMAN THE CASE AGAINST REALITY Why Greatness Cannot Be Planned DIVE SYSTEMS FRINCETON 90",
-    "author": "",
-    "confidence": 0.9293103448275862,
-    "bbox": [
-      1072,
-      718,
-      1420,
-      2140
-    ],
-    "raw_text": "Kenneth O. Stanley Joel Lehman Stanley Lehman DIVERSITY AND COMPLEXITY Scott E. Page DONALD D. HOFFMAN THE CASE AGAINST REALITY Why Greatness Cannot Be Planned DIVE SYSTEMS FRINCETON 90",
-    "cleaned_title": "Kenneth Stanley Joel Lehman Stanley Lehman DIVERSITY AND COMPLEXITY Scott Page DONALD HOFFMAN THE CASE AGAINST REALITY Why Greatness Cannot Planned DIVE SYSTEMS FRINCETON",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "COMPLEXITY M. MITCHELL WALDROP SIMON & SCHUSTER PAPERBACKS",
-    "author": "",
-    "confidence": 0.90625,
-    "bbox": [
-      1581,
-      868,
-      1806,
-      2074
-    ],
-    "raw_text": "COMPLEXITY M. MITCHELL WALDROP SIMON & SCHUSTER PAPERBACKS",
-    "cleaned_title": "COMPLEXITY MITCHELL WALDROP SIMON SCHUSTER PAPERBACKS",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "9780671872342",
-      "publisher": "Simon and Schuster",
-      "published_date": "1993-09",
-      "description": "Science magazine reporter Waldrop introduces researchers--rebellious graduate students, Nobel laureates, and pragmatic businessmen--who are formulating surprising answers to complex questions about the universe. Line drawings.",
-      "categories": [
-        "Mathematics"
-      ],
-      "page_count": 388,
-      "language": "en"
-    }
-  },
-  {
-    "title": "DAVID DEUTSCH THE FABRIC OF REALITY مالية THE COMPLEX WORLD",
-    "author": "",
-    "confidence": 0.935,
-    "bbox": [
-      3729,
-      841,
-      3920,
-      1987
-    ],
-    "raw_text": "DAVID DEUTSCH THE FABRIC OF REALITY مالية THE COMPLEX WORLD",
-    "cleaned_title": "DAVID DEUTSCH THE FABRIC OF REALITY مالية THE COMPLEX WORLD",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC OF REALITY (8) พ. THE COMPLEX WORLD SIGNALS AND BOUNDARIES Holland Krakauer Essentia",
-    "author": "",
-    "confidence": 0.8869565217391304,
-    "bbox": [
-      3584,
-      692,
-      4091,
-      2089
-    ],
-    "raw_text": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC OF REALITY (8) พ. THE COMPLEX WORLD SIGNALS AND BOUNDARIES Holland Krakauer Essentia",
-    "cleaned_title": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC OF REALITY THE COMPLEX WORLD SIGNALS AND BOUNDARIES Holland Krakauer Essentia",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "Stanley Lehman Why Greatness Cannot Be Planned Miller and Page COMPLEX ADAPTIVE SYSTEMS STERNBERG Dynamical Systems anes Fyerywhere? FRINCETON DOVER го 12",
-    "author": "",
-    "confidence": 0.9260869565217391,
-    "bbox": [
-      861,
-      760,
-      1165,
-      2130
-    ],
-    "raw_text": "Stanley Lehman Why Greatness Cannot Be Planned Miller and Page COMPLEX ADAPTIVE SYSTEMS STERNBERG Dynamical Systems anes Fyerywhere? FRINCETON DOVER го 12",
-    "cleaned_title": "Stanley Lehman Why Greatness Cannot Planned Miller and Page COMPLEX ADAPTIVE SYSTEMS STERNBERG Dynamical Systems anes Fyerywhere FRINCETON DOVER",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "STERNBERG Goff & Moran (eds.) Dynamical Systems Is Consciousness Everywhere? f Consciousness Basic Books za",
-    "author": "",
-    "confidence": 0.863157894736842,
-    "bbox": [
-      709,
-      703,
-      987,
-      2118
-    ],
-    "raw_text": "STERNBERG Goff & Moran (eds.) Dynamical Systems Is Consciousness Everywhere? f Consciousness Basic Books za",
-    "cleaned_title": "STERNBERG Goff Moran eds. Dynamical Systems Consciousness Everywhere Consciousness Basic Books",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "steven strogatz sync the emerging science THE ROMANCE OF REALITY BOBBY AZARIAN BENBELLA",
-    "author": "",
-    "confidence": 0.9384615384615383,
-    "bbox": [
-      3192,
-      690,
-      3456,
-      2063
-    ],
-    "raw_text": "steven strogatz sync the emerging science THE ROMANCE OF REALITY BOBBY AZARIAN BENBELLA",
-    "cleaned_title": "steven strogatz sync the emerging science THE ROMANCE OF REALITY BOBBY AZARIAN BENBELLA",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "Goff & Moran (eds.) Is Consciousness Everyw Edelman A Universe of Consciousness \"TURTLES, TERMITES, AND TRAFFIC JAMS RESNICKI MPLEXITY, NTROPY & PHYSICS OF FORMATION, VOLUME II Zurek Basic Books",
-    "author": "",
-    "confidence": 0.8675675675675676,
-    "bbox": [
-      499,
-      691,
-      873,
-      2127
-    ],
-    "raw_text": "Goff & Moran (eds.) Is Consciousness Everyw Edelman A Universe of Consciousness \"TURTLES, TERMITES, AND TRAFFIC JAMS RESNICKI MPLEXITY, NTROPY & PHYSICS OF FORMATION, VOLUME II Zurek Basic Books",
-    "cleaned_title": "Goff Moran eds. Consciousness Everyw Edelman Universe of Consciousness TURTLES, TERMITES, AND TRAFFIC JAMS RESNICKI MPLEXITY, NTROPY PHYSICS OF FORMATION, VOLUME Zurek Basic Books",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "9780786722587",
-      "publisher": "Hachette UK",
-      "published_date": "2008-08-01",
-      "description": "What goes on in our head when we have a thought? Why do the physical events that occur inside a fistful of gelatinous tissue give rise to the world of conscious experience? In The Universe of Consciousness , Gerald Edelman and Giulio Tononi present for the first time a full-scale theory of consciousness based on direct observation of the human brain in action. Their pioneering work, presented here in an elegant style, challenges much of the conventional wisdom about consciousness. The Universe of Consciousness has enormous implications for our understanding of language, thought, emotion, and mental illness.",
-      "categories": [
-        "Psychology"
-      ],
-      "page_count": 345,
-      "language": "en"
-    }
-  },
-  {
-    "title": "MADABHUSHI MADAN GOPAL Galileo's Error PHILIP GOFF",
-    "author": "",
-    "confidence": 0.95,
-    "bbox": [
-      2193,
-      780,
-      2436,
-      2056
-    ],
-    "raw_text": "MADABHUSHI MADAN GOPAL Galileo's Error PHILIP GOFF",
-    "cleaned_title": "MADABHUSHI MADAN GOPAL Galileo Error PHILIP GOFF",
-    "cleaned_author": "",
-    "google_books_metadata": {}
-  },
-  {
-    "title": "PHILIP GOFF WHY?!! PURPOSE UNIVERSE FO OXFORD",
-    "author": "",
-    "confidence": 0.9,
-    "bbox": [
-      1764,
-      781,
-      1936,
-      2052
-    ],
-    "raw_text": "PHILIP GOFF WHY?!! PURPOSE UNIVERSE FO OXFORD",
-    "cleaned_title": "PHILIP GOFF WHY PURPOSE UNIVERSE OXFORD",
-    "cleaned_author": "",
-    "google_books_metadata": {
-      "isbn": "0198883773",
-      "publisher": "",
-      "published_date": "2023",
-      "description": "Why are we here? What's the point of existence? For those who are unsatisfied by the answers of traditional religion, and equally by the lack of answers from atheism, Philip Goff opens up a path between the two. He argues for cosmic purpose: the idea that the universe is directed towards certain goals, such as the emergence of intelligent life.",
-      "categories": [
-        "Consciousness"
-      ],
-      "page_count": 0,
-      "language": "en"
-    }
-  },
-  {
-    "title": "THE COMPLEX WORLD SIGNALS AND BOUNDARIES Krakauer Holland",
+    "title": "SIMPLY FLY CAPTAIN GOPINATH",
     "author": "",
     "confidence": 0.9375,
     "bbox": [
-      3576,
-      867,
-      3778,
-      2002
+      1835,
+      109,
+      2011,
+      1425
     ],
-    "raw_text": "THE COMPLEX WORLD SIGNALS AND BOUNDARIES Krakauer Holland",
-    "cleaned_title": "THE COMPLEX WORLD SIGNALS AND BOUNDARIES Krakauer Holland",
+    "raw_text": "SIMPLY FLY CAPTAIN GOPINATH",
+    "cleaned_title": "SIMPLY FLY CAPTAIN GOPINATH",
     "cleaned_author": "",
-    "google_books_metadata": {}
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9789350295069",
+        "title": "Simply Fly",
+        "authors": [
+          "Capt. G R Gopinath"
+        ],
+        "publisher": "Harper Collins",
+        "published_date": "2012-06-06",
+        "description": "This is the journey of a boy born in a remote village, who went from riding a bullock cart to owning an airline, a journey of an entrepreneur who built India's first and largest low-cost airline Filled with rich anecdotes of everyday struggles and joys, this is the awe-inspiring story of Captain G.R. Gopinath. This autobiography narrates in gritty detail Captain Gopinath's incredible journey: quitting the Indian Army in the late 1970s with a princely gratuity of Rs 6500, going back to his farm land inundated by the river, converting a piece of barren land to set up a farm for ecologically sustainable silkworm rearing, winning the Rolex award for it, his loves and passions, his extraordinary determination to launch an airline (which touched a crazy market cap of US$ 1.1 billion in less than four years ), in the process rewriting aviation history.",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "page_count": 339,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 37.5
+      },
+      "alternative_matches": [
+        {
+          "isbn": "935029155X",
+          "title": "Simply Fly : A Deccan Odyssey",
+          "authors": [
+            "Captain Gopinath G R Captain"
+          ],
+          "publisher": "Collins",
+          "published_date": "2011-05-09",
+          "description": "This is the journey of a boy born in a remote village, who went from riding a bullock cart to owning an airline, a journey of an entrepreneur who built India's first and largest low-cost airline Filled with rich anecdotes of everyday struggles and joys, this is the awe-inspiring story of Captain G.R. Gopinath. This autobiography narrates in gritty detail Captain Gopinath's incredible journey: quitting the Indian Army in the late 1970s with a princely gratuity of Rs 6500, going back to his farm land inundated by the river, converting a piece of barren land to set up a farm for ecologically sustainable silkworm rearing, winning the Rolex award for it, his loves and passions, his extraordinary determination to launch an airline (which touched a crazy market cap of US$ 1.1 billion in less than four years ), in the process rewriting aviation history.",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 35.5
+        },
+        {
+          "isbn": "9788184932058",
+          "title": "வானமே எல்லை! / Vaaname Yellai",
+          "authors": [
+            "கேப்டன் கோபிநாத் / Captain Gopinath"
+          ],
+          "publisher": "Kizhakku Pathippagam",
+          "published_date": "2011-11-01",
+          "description": "\"கேப்டன் கோபிநாத்தின் வாழ்க்கை ஓர் ஆச்சரியப் புத்தகம். ஒருவராலும் முடியாததைச் சாதித்துக் காட்டவேண்டும் என்னும் அவருடைய வாழ்க்கை லட்சியத்தின் ஒரு சிறு பகுதிதான் ஒரு ரூபாய்க்கு விமானக் கட்டணம். சாமானியக் கற்பனைக்கு எட்டாத பல சாகசங்களை கோபிநாத் அநாயாசமாக நிகழ்த்திக் காட்டியிருக்கிறார். அவர் ஈடுபடாத துறைகளே இல்லை. இந்திய ராணுவ அதிகாரியாக பங்களாதேஷ் விடுதலைப் போரில் மிக முக்கியப் பங்காற்றியிருக்கிறார். இந்திய சீன எல்லையில் தனியே காவல்பணி புரிந்திருக்கிறார். விவசாயம் செய்திருக்கிறார். பால் பண்ணை, பட்டுப் பூச்சி வளர்ப்பு, மோட்டார் பைக் ஏஜென்ஸி, உடுப்பி ஹோட்டல், பங்குச் சந்தை என்று நீள்கிறது பட்டியல். அரசியலும் உண்டு. தேவே கவுடாவை எதிர்த்து பிஜேபி சார்பில் போட்டியிட்டிருக்கிறார். தோல்வியும் அடைந்திருக்கிறார். கவனிக்கவேண்டியது என்னவென்றால், அவர் தன் வெற்றிகளை மட்டுமல்ல, தோல்விகளையும் திரட்டித் தொகுத்தபடியேதான் முன்னேறியிருக்கிறார். சாகசங்களை ரசிக்கவும், சவால்களை எதிர்கொள்ளவும், தடைகளைத் தகர்க்கவும் துணிந்துவிட்டால் எதுவுமே ஒரு பிரச்னை அல்ல என்பதைத்தான் அவருடைய சாதனைகள் நமக்கு உணர்த்துகின்றன. பூஜ்ஜியத்தில் இருந்து ஒரு ராஜ்ஜியத்தைப் படைக்கத் தூண்டும் அனைவரும் படிக்கவேண்டிய பல பாடங்கள் இதில் உள்ளன. எனவேதான் ‘கல்லூரிகளில் இந்நூலைப் பாட நூலாக்கவேண்டும்!’ என்கிறார் அப்துல் கலாம். Simply Fly: A Deccan Odyssey என்ற நூலின் தமிழாக்கம்\"",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "page_count": 527,
+          "language": "ta",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 3,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9789350295069",
+      "title": "Simply Fly",
+      "authors": [
+        "Capt. G R Gopinath"
+      ],
+      "publisher": "Harper Collins",
+      "published_date": "2012-06-06",
+      "description": "This is the journey of a boy born in a remote village, who went from riding a bullock cart to owning an airline, a journey of an entrepreneur who built India's first and largest low-cost airline Filled with rich anecdotes of everyday struggles and joys, this is the awe-inspiring story of Captain G.R. Gopinath. This autobiography narrates in gritty detail Captain Gopinath's incredible journey: quitting the Indian Army in the late 1970s with a princely gratuity of Rs 6500, going back to his farm land inundated by the river, converting a piece of barren land to set up a farm for ecologically sustainable silkworm rearing, winning the Rolex award for it, his loves and passions, his extraordinary determination to launch an airline (which touched a crazy market cap of US$ 1.1 billion in less than four years ), in the process rewriting aviation history.",
+      "categories": [
+        "Biography & Autobiography"
+      ],
+      "page_count": 339,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 37.5
+    }
   },
   {
-    "title": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC Essentia",
+    "title": "OUT OF CONTROL KELLY B BOOKS",
     "author": "",
-    "confidence": 0.94375,
+    "confidence": 0.8916666666666667,
     "bbox": [
-      3844,
-      717,
-      4068,
-      2015
+      2542,
+      164,
+      2772,
+      1387
     ],
-    "raw_text": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC Essentia",
-    "cleaned_title": "FEDERICO FAGGIN IRREDUCIBLE DAVID DEUTSCH THE FABRIC Essentia",
+    "raw_text": "OUT OF CONTROL KELLY B BOOKS",
+    "cleaned_title": "OUT OF CONTROL KELLY BOOKS",
     "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "Kelly v. Liquor Control Commission, 280 MICH 693 (1937)",
+        "authors": [],
+        "publisher": "",
+        "published_date": "1937",
+        "description": "",
+        "categories": [],
+        "page_count": 8,
+        "language": "en",
+        "search_strategy": "Key words: CONTROL, KELLY, BOOKS",
+        "priority": 3,
+        "confidence_score": 39.72727272727273
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9781732571457",
+          "title": "Lethal Control",
+          "authors": [
+            "Kate Scannell"
+          ],
+          "publisher": "Word Haven Media",
+          "published_date": "2021-09-04",
+          "description": "A MYSTERIOUS BLUE PATIENT IS ABANDONED AT OAKLAND CITY HOSPITAL. Doctor Nora Kelly must outwit a powerful corporate adversary to diagnose her patient’s illness and safeguard her community. An anonymous blue patient arrives at the doorstep of Oakland City Hospital and cries out for her young daughter before passing out. Doctor Nora Kelly must struggle against the clock to diagnose her patient’s life-threatening illness and alarming discoloration. Her task becomes more difficult when the patient awakens but refuses to speak with anyone on staff, fearing reprisals from immigration and child-protection authorities. Nora suspects that her patient’s illness is caused by exposure to toxic chemicals, and she worries that others in the woman's encampment may be endangered as well. But the patient remains silent. Only after she learns that Nora saved her life does she agree to answer Nora’s questions—for a price. In return, Nora must locate the woman's daughter and deliver a confidential message. Nora’s end of the bargain marks the beginning of a perilous journey that leads her to an encampment at a decrepit local stadium site. With the help of her colleagues, she desperately searches for the daughter as she also discovers that other encampment residents have succumbed to toxic exposures. Her insistent attempts to prove the site’s environmental contamination come up against powerful systemic forces and trigger dangerous personal consequences.",
+          "categories": [
+            "Fiction"
+          ],
+          "page_count": 403,
+          "language": "en",
+          "search_strategy": "Key words: CONTROL, KELLY, BOOKS",
+          "priority": 3,
+          "confidence_score": 34.09090909090909
+        },
+        {
+          "isbn": "",
+          "title": "Books in Series",
+          "authors": [],
+          "publisher": "",
+          "published_date": "1985",
+          "description": "Vols. for 1980- issued in three parts: Series, Authors, and Titles.",
+          "categories": [
+            "Monographic series"
+          ],
+          "page_count": 1858,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 28.636363636363637
+        },
+        {
+          "isbn": "",
+          "title": "Catalogue of Title-entries of Books and Other Articles Entered in the Office of the Librarian of Congress, at Washington, Under the Copyright Law ... Wherein the Copyright Has Been Completed by the Deposit of Two Copies in the Office",
+          "authors": [
+            "Library of Congress. Copyright Office"
+          ],
+          "publisher": "",
+          "published_date": "1969",
+          "description": "",
+          "categories": [
+            "American drama"
+          ],
+          "page_count": 844,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 26.09090909090909
+        },
+        {
+          "isbn": "",
+          "title": "Books in Print Supplement",
+          "authors": [],
+          "publisher": "",
+          "published_date": "1973",
+          "description": "",
+          "categories": [
+            "American literature"
+          ],
+          "page_count": 2568,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 20.636363636363637
+        },
+        {
+          "isbn": "9780244258153",
+          "title": "Homi Bhabha: An Introduction and Critique, Volume 3: Political Theory and Practice",
+          "authors": [
+            "Andrew McLaverty-Robinson"
+          ],
+          "publisher": "Lulu.com",
+          "published_date": "2020-01-31",
+          "description": "Homi Bhabha: An Introduction and Critique is a pathbreaking three-volume study of the celebrated postcolonial scholar's work. McLaverty-Robinson's careful reading renders Bhabha's theories in plain English, without losing their meaning. In addition, McLaverty-Robinson's incisive critique cuts through the theoretical aura of Bhabha's work and explores whether his theories work in practice - either empirically or politically. This third and final volume explores the political content and implications of Bhabha's work. It explores Bhabha's political proposals, such as the ideas of a community of suffering and a right to narrate. It also explores Bhabha's relationship to neoliberalism and to the Eurocommunist current in the 1980s, and his critical engagements with liberalism, communitarianism, Marxism, critical race theory, Deleuze and Guattari, and Frantz Fanon. This volume also includes an entire chapter providing a background on neoliberalism, and a comprehensive index covering all three volumes.",
+          "categories": [
+            "Reference"
+          ],
+          "page_count": 600,
+          "language": "en",
+          "search_strategy": "Cleaned title: OUT OF CONTROL KELLY",
+          "priority": 4,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 12,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "",
+      "title": "Kelly v. Liquor Control Commission, 280 MICH 693 (1937)",
+      "authors": [],
+      "publisher": "",
+      "published_date": "1937",
+      "description": "",
+      "categories": [],
+      "page_count": 8,
+      "language": "en",
+      "search_strategy": "Key words: CONTROL, KELLY, BOOKS",
+      "priority": 3,
+      "confidence_score": 39.72727272727273
+    }
+  },
+  {
+    "title": "Michael Pollan How to Change Your Mind PP Penguin Press",
+    "author": "",
+    "confidence": 0.935,
+    "bbox": [
+      1620,
+      126,
+      1856,
+      1403
+    ],
+    "raw_text": "Michael Pollan How to Change Your Mind PP Penguin Press",
+    "cleaned_title": "Michael Pollan How Change Your Mind Penguin Press",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "1388340739",
+        "title": "Summary of How to Change Your Mind by Michael Pollan",
+        "authors": [
+          "Bookhabits"
+        ],
+        "publisher": "Blurb",
+        "published_date": "2019-01-09",
+        "description": "How To Change Your Mind by Michael Pollan: Conversation Starters New York Times bestselling author Michael Pollan writes a brilliant book about his own life-changing psychedelic experiences. How to Change Your Mind: What The New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression and Transcendence is an instant #1 New York Times bestseller. Pollan bravely investigated the medical and scientific revolution around psychedelic drugs. Boston Globe praises Pollan's engaging and informative book that will enlighten those who think of \"psychedelics chiefly as a kind of punchline to a joke.\" New York Times called How To Change Your Mind a page-turner that is \"cleareyed and assured.\" NY Post describes Pollan's newest bestseller \"a deep dive into the history of psychedelics.\" Pittsburgh Post Gazette praises Michael Pollan for exploring and making a compelling case regarding \"the potential value of psychedelic experiences.\" For Kirkus, Pollan's How To Change Your Mind is... A Brief Look Inside: EVERY GOOD BOOK CONTAINS A WORLD FAR DEEPER than the surface of its pages. The characters and their world come alive, and the characters and its world still live on. Conversation Starters is peppered with questions designed to bring us beneath the surface of the page and invite us into the world that lives on. These questions can be used to... Create Hours of Conversation: - Promote an atmosphere of discussion for groups - Foster a deeper understanding of the book - Assist in the study of the book, either individually or corporately - Explore unseen realms of the book as never seen before Disclaimer: This book you are about to enjoy is an independent resource meant to supplement the original book. If you have not yet read the original book, we encourage you to before purchasing this unofficial Conversation Starters.",
+        "categories": [
+          "Education"
+        ],
+        "page_count": 70,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 57.85714285714286
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9798636115274",
+          "title": "Practice WorkBook Based on How to Change Your Mind by Michael Pollan",
+          "authors": [
+            "Dylan Hart"
+          ],
+          "publisher": "",
+          "published_date": "2020-04-11",
+          "description": "Welcome to the gym for Mind Change! Just like reading about exercising in the gym will not make you stronger, so... To the same extent, reading about the history of related studies will not help you to understand their far-reaching consequences. You must practice, memorize, and make invincible conclusions. This is the primary goal of this booklet! The practice booklet I prepared for you will help you do just that. It is designed to provide a training platform for unlocking the human brain. Scroll down the page to watch my video before you buy, I am sharing my story, and my WHY? Then click BUY NOW! So you can start taking action for the change you desire so much. See you indise the Companion Action Workbook. Good luck! Dylan Hart",
+          "categories": [],
+          "page_count": 26,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 57.85714285714286
+        },
+        {
+          "isbn": "",
+          "title": "Summary of Michael Pollan’s How to Change Your Mind by Milkyway Media",
+          "authors": [
+            "Milkyway Media"
+          ],
+          "publisher": "Milkyway Media",
+          "published_date": "2018-08-30",
+          "description": "In How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence (2018) Michael Pollan explores the benefits that psychedelics can provide, both for those suffering from mental illness and for those trying to cultivate new perspectives and habits. Before these drugs were prohibited, there was an extensive history of research into their effects in North America and Europe, and studies that utilize lysergic acid diethylamide (LSD) and magic mushrooms continue today. Purchase this in-depth summary to learn more.",
+          "categories": [
+            "Study Aids"
+          ],
+          "page_count": 25,
+          "language": "en",
+          "search_strategy": "Key words: Michael, Pollan, Change",
+          "priority": 3,
+          "confidence_score": 44.285714285714285
+        },
+        {
+          "isbn": "9791220880671",
+          "title": "Summary of How to Change Your Mind",
+          "authors": [
+            "Alexander Cooper"
+          ],
+          "publisher": "BookSummaryGr",
+          "published_date": "2021-11-10",
+          "description": "Summary of How to Change Your Mind - What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence - A Comprehensive Summary A Renaissance takes us back to the beginning of psychedelics and into the lab of Albert Hofmann and his work with a plant called ergot. Hofmann’s work and Hofmann himself became the “spiritual” as well as the scientific leader of the testing of psychedelics. Neuroscience, psychiatry, pharmacology, and consciousness studies as well as the arts all listened to Hofmann, and explored the impact on the understanding of the consciousness and treating mental disorders. The symposium on psychedelics in 2006 opened a resurgence of research projects with the intent of studying the effects of psychedelics on humans. It was hoped that the long hiatus on psychedelic research was coming to an end. Just five weeks later in 2006 there was a Supreme Court decision by then new Chief Justice John G. Roberts Jr. who ruled that religious sects could import the drink Ayahuasca to the United States. Ayahuasca contained a schedule 1 substance called DMT, but the ruling was based on the Religious Freedom Restoration Act of 1993. This act was specifically developed for Native Americans and their use of peyote in their ceremonies. The Court’s actions opened a religious path to the legal recognition of psychedelic drugs. To be continued... Here is a Preview of What You Will Get: ⁃ A Full Book Summary ⁃ An Analysis ⁃ Fun quizzes ⁃ Quiz Answers ⁃ Etc. Get a copy of this summary and learn about the book.",
+          "categories": [
+            "Medical"
+          ],
+          "page_count": 50,
+          "language": "en",
+          "search_strategy": "Key words: Michael, Pollan, Change",
+          "priority": 3,
+          "confidence_score": 39.285714285714285
+        },
+        {
+          "isbn": "0578517035",
+          "title": "Mind Change: Changing The World One Mind At A Time",
+          "authors": [
+            "Heather McKean"
+          ],
+          "publisher": "",
+          "published_date": "2019-06",
+          "description": "Diving into neuroscience while harnessing the power of neuroplasticity, we show you how to change your mind through many modalities and one simple method.",
+          "categories": [
+            "Psychology"
+          ],
+          "page_count": 278,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 20.714285714285715
+        },
+        {
+          "isbn": "1793287473",
+          "title": "Summary and Analysis",
+          "authors": [
+            "Black Book"
+          ],
+          "publisher": "Independently Published",
+          "published_date": "2018-12",
+          "description": "Overview Summary of How To Chnage Your Mind By Michael Pollan Through the pages of How to Change Your Mind, you'll experience an entirely new way of looking at the world and the way that things occur within the world. There are plenty of different experiences out there that can and should be explored, and psychedelics could be the way that these experiences are best explored. Michael Pollan looks at different research that has been done throughout a range of different fields, including depression, addiction and \"healthy normal\" and seeks to find a way that psychedelics could be the answer to the question of how to change our world and improve our sense of \"normal.\" The researchers are discussed here with reference to some of the patients who have participated in their experiments and been helped in different ways. These patients feel they have been cured, and some of them recognize that they have only improved moderately, but still, all seem to see a difference. There are skeptics and more and even several firsthand accounts of Pollan's experiences and the ones that he has garnered from others. No matter what may be happening in the world at large, there may be a future for psychedelics in changing that future and improving the mental health of all of those around us at the same time. By exploring each of these types of research Pollan hopes to understand whether psychedelics should be evaluated further and whether the current laws restricting them as Schedule 1 narcotics from the FDA are something that should be reevaluated as well. He seeks, through the course of this book, to evaluate the important nature of psychedelics and all of the things that they have been able to do throughout history as well as throughout different stages of the recent past and even what may happen in the future. Through this process, it's possible to think about the ways that psychedelics and the experiences that occur as a result of them may just be the answer that modern medicine is looking for or could at least hold the key to something different about our consciousness. For more information click on the BUY BUTTON!!!",
+          "categories": [],
+          "page_count": 36,
+          "language": "en",
+          "search_strategy": "Key words: Michael, Pollan, Change",
+          "priority": 3,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 6,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "1388340739",
+      "title": "Summary of How to Change Your Mind by Michael Pollan",
+      "authors": [
+        "Bookhabits"
+      ],
+      "publisher": "Blurb",
+      "published_date": "2019-01-09",
+      "description": "How To Change Your Mind by Michael Pollan: Conversation Starters New York Times bestselling author Michael Pollan writes a brilliant book about his own life-changing psychedelic experiences. How to Change Your Mind: What The New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression and Transcendence is an instant #1 New York Times bestseller. Pollan bravely investigated the medical and scientific revolution around psychedelic drugs. Boston Globe praises Pollan's engaging and informative book that will enlighten those who think of \"psychedelics chiefly as a kind of punchline to a joke.\" New York Times called How To Change Your Mind a page-turner that is \"cleareyed and assured.\" NY Post describes Pollan's newest bestseller \"a deep dive into the history of psychedelics.\" Pittsburgh Post Gazette praises Michael Pollan for exploring and making a compelling case regarding \"the potential value of psychedelic experiences.\" For Kirkus, Pollan's How To Change Your Mind is... A Brief Look Inside: EVERY GOOD BOOK CONTAINS A WORLD FAR DEEPER than the surface of its pages. The characters and their world come alive, and the characters and its world still live on. Conversation Starters is peppered with questions designed to bring us beneath the surface of the page and invite us into the world that lives on. These questions can be used to... Create Hours of Conversation: - Promote an atmosphere of discussion for groups - Foster a deeper understanding of the book - Assist in the study of the book, either individually or corporately - Explore unseen realms of the book as never seen before Disclaimer: This book you are about to enjoy is an independent resource meant to supplement the original book. If you have not yet read the original book, we encourage you to before purchasing this unofficial Conversation Starters.",
+      "categories": [
+        "Education"
+      ],
+      "page_count": 70,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 57.85714285714286
+    }
+  },
+  {
+    "title": "LARRY BRILLIANT SOMETIMES BRILLIANT Ⓡ HarperOne",
+    "author": "",
+    "confidence": 0.9083333333333333,
+    "bbox": [
+      299,
+      176,
+      526,
+      1412
+    ],
+    "raw_text": "LARRY BRILLIANT SOMETIMES BRILLIANT Ⓡ HarperOne",
+    "cleaned_title": "LARRY BRILLIANT SOMETIMES BRILLIANT HarperOne",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {},
+      "alternative_matches": [],
+      "total_found": 0,
+      "search_performed": true
+    },
     "google_books_metadata": {}
   },
   {
-    "title": "NEW EDI THE MISDEM DIVERSITY AND COMPLEXITY Scott E. Page THE CASE AGAINST REALITY",
+    "title": "JORDAN B. PETERSON 12 RULES FOR LIFE",
+    "author": "",
+    "confidence": 0.9142857142857143,
+    "bbox": [
+      2235,
+      139,
+      2411,
+      1385
+    ],
+    "raw_text": "JORDAN B. PETERSON 12 RULES FOR LIFE",
+    "cleaned_title": "JORDAN PETERSON RULES FOR LIFE",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "Summary: 12 Rules for Life by Jordan B. Peterson",
+        "authors": [
+          "Quick Savant"
+        ],
+        "publisher": "Quick Savant",
+        "published_date": "2022-06-07",
+        "description": "This book is a synopsis and is meant to complement, not replace, Jordan B. Peterson’s 12 Rules for Life. What is essential knowledge for everyone in the current world? Jordan B. Peterson, a renowned psychologist, offers a unique combination of old tradition's hard-won truths and cutting-edge scientific findings in his solution to this most difficult of problems. Dr. Peterson teaches us why skateboarding boys and girls must be left alone, what awful destiny awaits those who criticize too readily, and why you should always pet a cat when you see one on the street in his hilarious, fascinating, and enlightening book. What can we learn about standing up straight (with our shoulders back) and achieving success from the neurological system of a lowly lobster? Why did the ancient Egyptians consider the ability to pay close attention to be the most important of gods? When individuals grow angry, arrogant, and vindictive, what horrible roads do they take? Dr. Peterson takes a wide trip, covering discipline, freedom, adventure, and responsibility, and reducing the knowledge of the world into 12 simple but profound life principles. 12 Rules for Life shatters current commonplaces in science, theology, and human nature while altering and ennobling its listeners' minds and spirits.",
+        "categories": [
+          "Education"
+        ],
+        "page_count": 84,
+        "language": "en",
+        "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+        "priority": 3,
+        "confidence_score": 70.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "",
+          "title": "Summary of 12 Rules for Life by Jordan B. Peterson",
+          "authors": [
+            "QuickRead",
+            "Alyssa Burnette"
+          ],
+          "publisher": "QuickRead.com",
+          "published_date": "",
+          "description": "Advertised as an antidote to chaos, 12 Rules for Life (2018) assesses humanity’s most pressing concerns through the ages and compiles their solutions in this handy self-help book. Drawing on psychology, religion, philosophy, literature, and personal experience, author Jordan B. Peterson seeks to eliminate life’s chaos and confusion through the compilation of 12 simple rules that address the deepest questions of humanity. Challenging such questions as, “Why do bad things happen to good people?” and “Why isn’t life fair?” Peterson crafts a solution to truly living our best lives through adherence to his twelve consistent principles. Do you want more free books like this? Download our app for free at https://www.QuickRead.com/App and get access to hundreds of free book and audiobook summaries. DISCLAIMER: This book summary is meant as a preview and not a replacement for the original work. If you like this summary please consider purchasing the original book to get the full experience as the original author intended it to be. If you are the original author of any book on QuickRead and want us to remove it, please contact us at hello@quickread.com.",
+          "categories": [
+            "Study Aids"
+          ],
+          "page_count": 26,
+          "language": "en",
+          "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+          "priority": 3,
+          "confidence_score": 65.0
+        },
+        {
+          "isbn": "",
+          "title": "SUMMARY: Beyond Order: 12 More Rules For Life: By Jordan B. Peterson | The MW Summary Guide",
+          "authors": [
+            "The Mindset Warrior"
+          ],
+          "publisher": "KP",
+          "published_date": "",
+          "description": "An Easy to Digest Summary Guide... ★☆BONUS MATERIAL AVAILABLE INSIDE★☆ The Mindset Warrior Summary Guides provide you with a unique summarized version of the core information contained in the full book, along with the essentials you need in order to fully comprehend and apply. Maybe you've read the original book but would like a reminder of the information? Maybe you haven't read the book, but want a short summary to save time? Maybe you'd just like a summarized version to refer to in the future? In any case, The Mindset Warrior Summary Guides can provide you with just that. Inside You'll Learn: ✱ Why you must confront old trauma—and exactly how to do that... ✱ The dangers of excess order, rules, and routine... ✱ How to make yourself invaluable in the workplace ✱ Why some people crumble under pressure, while others thrive ✱ The ways you sneakily self-sabotage and how to know the difference ✱ And much more... Let's get Started. Download Your Book Today... NOTE: To Purchase \"Beyond Order\"(full book); which this is not, simply type the name of the book in the search bar of your bookstore.",
+          "categories": [
+            "Self-Help"
+          ],
+          "page_count": 53,
+          "language": "en",
+          "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+          "priority": 3,
+          "confidence_score": 55.76923076923077
+        },
+        {
+          "isbn": "",
+          "title": "Summary of Jordan B. Peterson's 12 Rules for Life",
+          "authors": [
+            "Swift Reads"
+          ],
+          "publisher": "Swift Books LLC",
+          "published_date": "2021-02-24",
+          "description": "Buy now to get the insights from Jordan B. Peterson's 12 Rules for Life. Sample Insights: 1) Rule 1: Stand up straight with your shoulders back. A dominant man always keeps his posture. It gives off confidence and virility. The most dominant men were historically those who were able to score the best habitat, hunting grounds, and women. 2) The man who dominates and stays on top for the longest time is the one who knows how to forge good relations with those beneath him. He knows that the strongest of men could be taken down by a hundred much less strong men.",
+          "categories": [
+            "Psychology"
+          ],
+          "page_count": 27,
+          "language": "en",
+          "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+          "priority": 3,
+          "confidence_score": 51.53846153846154
+        },
+        {
+          "isbn": "",
+          "title": "Summary of Jordan B. Peterson’s 12 Rules for Life by Milkyway Media",
+          "authors": [
+            "Milkyway Media"
+          ],
+          "publisher": "Milkyway Media",
+          "published_date": "2018-08-31",
+          "description": "The best-selling 12 Rules for Life: An Antidote to Chaos (2018) by Jordan B. Peterson is a sweeping investigation into how humans should cope with life’s suffering. Drawing from biology, anthropology, psychology, history, and mythology, as well as from great thinkers and religions, Peterson outlines 12 key principles that will lead to an ethical and relatively manageable life… Purchase this in-depth summary to learn more.",
+          "categories": [
+            "Study Aids"
+          ],
+          "page_count": 33,
+          "language": "en",
+          "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+          "priority": 3,
+          "confidence_score": 51.53846153846154
+        },
+        {
+          "isbn": "0735278512",
+          "title": "12 Rules for Life",
+          "authors": [
+            "Jordan B. Peterson"
+          ],
+          "publisher": "Random House Canada",
+          "published_date": "2019-04",
+          "description": "\"What does everyone in the modern world need to know? [The author's] answer to this most difficult of questions uniquely combines the hard-won truths of ancient tradition with the stunning revelations of cutting-edge scientific research. [The author discusses] discussing discipline, freedom, adventure and responsibility, distilling the world's wisdom into 12 practical and profound rules for life\"--",
+          "categories": [
+            "Philosophy"
+          ],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 40.69230769230769
+        }
+      ],
+      "total_found": 8,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "",
+      "title": "Summary: 12 Rules for Life by Jordan B. Peterson",
+      "authors": [
+        "Quick Savant"
+      ],
+      "publisher": "Quick Savant",
+      "published_date": "2022-06-07",
+      "description": "This book is a synopsis and is meant to complement, not replace, Jordan B. Peterson’s 12 Rules for Life. What is essential knowledge for everyone in the current world? Jordan B. Peterson, a renowned psychologist, offers a unique combination of old tradition's hard-won truths and cutting-edge scientific findings in his solution to this most difficult of problems. Dr. Peterson teaches us why skateboarding boys and girls must be left alone, what awful destiny awaits those who criticize too readily, and why you should always pet a cat when you see one on the street in his hilarious, fascinating, and enlightening book. What can we learn about standing up straight (with our shoulders back) and achieving success from the neurological system of a lowly lobster? Why did the ancient Egyptians consider the ability to pay close attention to be the most important of gods? When individuals grow angry, arrogant, and vindictive, what horrible roads do they take? Dr. Peterson takes a wide trip, covering discipline, freedom, adventure, and responsibility, and reducing the knowledge of the world into 12 simple but profound life principles. 12 Rules for Life shatters current commonplaces in science, theology, and human nature while altering and ennobling its listeners' minds and spirits.",
+      "categories": [
+        "Education"
+      ],
+      "page_count": 84,
+      "language": "en",
+      "search_strategy": "Key words: JORDAN, PETERSON, RULES",
+      "priority": 3,
+      "confidence_score": 70.0
+    }
+  },
+  {
+    "title": "Salman Rushdie The Satanic Versur",
+    "author": "",
+    "confidence": 0.94,
+    "bbox": [
+      3405,
+      158,
+      3641,
+      1372
+    ],
+    "raw_text": "Salman Rushdie The Satanic Versur",
+    "cleaned_title": "Salman Rushdie The Satanic Versur",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9782808019385",
+        "title": "The Satanic Verses by Salman Rushdie (Book Analysis)",
+        "authors": [
+          "Bright Summaries"
+        ],
+        "publisher": "BrightSummaries.com",
+        "published_date": "2019-05-20",
+        "description": "Unlock the more straightforward side of The Satanic Verses with this concise and insightful summary and analysis! This engaging summary presents an analysis of The Satanic Verses by Salman Rushdie, a vividly imagined magical realist novel that interweaves the story of the protagonists Saladin and Gibreel, whose lives are transformed after they survive the hijacking of a plane, with an imaginary account of the early days of Islam. Through this story, Rushdie explores the themes of Indian identity, migration, belief and alienation. Although the novel was critically acclaimed in the West, its depiction of Islam and of the Prophet Muhammed angered many Muslims, who interpreted it as blasphemous, and resulted in the issuing of a fatwa for Rushdie’s assassination. Find out everything you need to know about The Satanic Verses in a fraction of the time! This in-depth and informative reading guide brings you: • A complete plot summary • Character studies • Key themes and symbols • Questions for further reflection Why choose BrightSummaries.com? Available in print and digital format, our publications are designed to accompany you on your reading journey. The clear and concise style makes for easy understanding, providing the perfect opportunity to improve your literary knowledge in no time. See the very best of literature in a whole new light with BrightSummaries.com!",
+        "categories": [
+          "Study Aids"
+        ],
+        "page_count": 20,
+        "language": "en",
+        "search_strategy": "Key words: Salman, Rushdie, Satanic",
+        "priority": 3,
+        "confidence_score": 62.58620689655173
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9783638106849",
+          "title": "Translation as a central topic in Salman Rushdie s novel the Satanic Verses",
+          "authors": [
+            "Eric Mühle"
+          ],
+          "publisher": "GRIN Verlag",
+          "published_date": "2001-12-21",
+          "description": "Seminar paper from the year 2000 in the subject English Language and Literature Studies - Literature, grade: 2+ (B), University of Duisburg-Essen (Institute for Foreign Language Philology), course: HS The Satanic Verses, language: English, abstract: In this paper I would like to focus on the aspect of people being translated from one culture into another within Salman Rushdie's novel “The Satanic Verses“. At the example of various immigrants which are subject to the novel I try to point out the problems these people have when coming to a foreign country. Different types of immigrants are described with their own peculiar characteristics and their way of coping with the new situation. Finally it shall become clear that there are at least three types of immigrants which differ completely from each other in their way of coping with their situation in a “foreign“ country. Furthermore the question shall be answered, whether complete assimilation to a foreign culture is possible or not. In the first chapter the two protagonists of the Satanic Verses, Saladin Chamcha and Gibreel Farishta are introduced, illustrating how much both characters are subject to the aspect of translation. Then, in the following chapters I am going to introduce three types of immigrants which are characteristic of people coming to a foreign country, critically judging the way in which they try to cope with their personal situation. For this purpose the Indianborn people Saladin Chamcha, John Maslama, Hind Sufyan, the Imam and Mishal and Anahita Sufyan are introduced. The paper concludes in chapter 7 with a summary of the most important points of discussion. In addition it should be mentioned that this homework is different from the usual literary-based papers of students studying English literature. Here, the emphasis is put on a close reading of the Satanic Verses instead of a deeper analysis of secondary literature. Thus, I only refer to one source of information in the list of works cited which helped me to understand various aspects of Indian religion und society. [...]",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "page_count": 32,
+          "language": "en",
+          "search_strategy": "Key words: Salman, Rushdie, Satanic",
+          "priority": 3,
+          "confidence_score": 62.58620689655173
+        },
+        {
+          "isbn": "",
+          "title": "Salman Rushdie on The Satanic Verses",
+          "authors": [
+            "Salman Rushdie"
+          ],
+          "publisher": "",
+          "published_date": "1996",
+          "description": "",
+          "categories": [],
+          "page_count": 129,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 59.58620689655173
+        },
+        {
+          "isbn": "",
+          "title": "Salman Rushdie's The Satanic Verses: War Against Containment",
+          "authors": [
+            "James L. Mandly"
+          ],
+          "publisher": "",
+          "published_date": "2003",
+          "description": "",
+          "categories": [],
+          "page_count": 184,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 45.10344827586207
+        },
+        {
+          "isbn": "",
+          "title": "Notes on Salman Rushdie: The Satanic Verses (1988)",
+          "authors": [
+            "Paul Brians",
+            "Salman Rushdie"
+          ],
+          "publisher": "",
+          "published_date": "1997",
+          "description": "",
+          "categories": [],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 43.10344827586207
+        },
+        {
+          "isbn": "9781535852210",
+          "title": "Gale Researcher Guide for: Salman Rushdie's The Satanic Verses",
+          "authors": [
+            "Ana Cristina Mendes"
+          ],
+          "publisher": "Gale, Cengage Learning ",
+          "published_date": "",
+          "description": "Gale Researcher Guide for: Salman Rushdie's The Satanic Verses is selected from Gale's academic platform Gale Researcher. These study guides provide peer-reviewed articles that allow students early success in finding scholarly materials and to gain the confidence and vocabulary needed to pursue deeper research.",
+          "categories": [
+            "Study Aids"
+          ],
+          "page_count": 11,
+          "language": "en",
+          "search_strategy": "Key words: Salman, Rushdie, Satanic",
+          "priority": 3,
+          "confidence_score": 43.10344827586207
+        }
+      ],
+      "total_found": 10,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9782808019385",
+      "title": "The Satanic Verses by Salman Rushdie (Book Analysis)",
+      "authors": [
+        "Bright Summaries"
+      ],
+      "publisher": "BrightSummaries.com",
+      "published_date": "2019-05-20",
+      "description": "Unlock the more straightforward side of The Satanic Verses with this concise and insightful summary and analysis! This engaging summary presents an analysis of The Satanic Verses by Salman Rushdie, a vividly imagined magical realist novel that interweaves the story of the protagonists Saladin and Gibreel, whose lives are transformed after they survive the hijacking of a plane, with an imaginary account of the early days of Islam. Through this story, Rushdie explores the themes of Indian identity, migration, belief and alienation. Although the novel was critically acclaimed in the West, its depiction of Islam and of the Prophet Muhammed angered many Muslims, who interpreted it as blasphemous, and resulted in the issuing of a fatwa for Rushdie’s assassination. Find out everything you need to know about The Satanic Verses in a fraction of the time! This in-depth and informative reading guide brings you: • A complete plot summary • Character studies • Key themes and symbols • Questions for further reflection Why choose BrightSummaries.com? Available in print and digital format, our publications are designed to accompany you on your reading journey. The clear and concise style makes for easy understanding, providing the perfect opportunity to improve your literary knowledge in no time. See the very best of literature in a whole new light with BrightSummaries.com!",
+      "categories": [
+        "Study Aids"
+      ],
+      "page_count": 20,
+      "language": "en",
+      "search_strategy": "Key words: Salman, Rushdie, Satanic",
+      "priority": 3,
+      "confidence_score": 62.58620689655173
+    }
+  },
+  {
+    "title": "TUL LIVING MOONN FANTIN/ RAAVAN ENEMY OF ARYAVARTA AMISH",
+    "author": "",
+    "confidence": 0.915,
+    "bbox": [
+      505,
+      262,
+      697,
+      1400
+    ],
+    "raw_text": "TUL LIVING MOONN FANTIN/ RAAVAN ENEMY OF ARYAVARTA AMISH",
+    "cleaned_title": "TUL LIVING MOONN FANTIN RAAVAN ENEMY OF ARYAVARTA AMISH",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9789356290983",
+        "title": "Raavan",
+        "authors": [
+          "Amish Tripathi"
+        ],
+        "publisher": "Harper Collins",
+        "published_date": "2022-07-25",
+        "description": "WITHOUT THE DARKNESS, LIGHT HAS NO PURPOSE. WITHOUT THE VILLAIN, WHAT WOULD THE GODS DO? INDIA, 3400 BCE. A land in tumult, poverty and chaos. Most people suffer quietly. A few rebel. Some fight for a better world. Some for themselves. Some don?t give a damn. Raavan. Fathered by one of the most illustrious sages of the time. Blessed by the Gods with talents beyond all. Cursed by fate to be tested to the extremes. A formidable teenage pirate, he is filled with equal parts courage, cruelty and fearsome resolve. A resolve to be a giant among men, to conquer, plunder, and seize the greatness that he thinks is his right. A man of contrasts, of brutal violence and scholarly knowledge. A man who will love without reward and kill without remorse. This exhilarating third book of the Ram Chandra series sheds light on Raavan, the king of Lanka. And the light shines on darkness of the darkest kind. Is he the greatest villain in history or just a man in a dark place, all the time? Read the epic tale of one of the most complex, violent, passionate and accomplished men of all time.",
+        "categories": [
+          "Fiction"
+        ],
+        "page_count": 332,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 22.659574468085104
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9388754360",
+          "title": "Rāvaṇa",
+          "authors": [
+            "Amish"
+          ],
+          "publisher": "Eka",
+          "published_date": "2019",
+          "description": "Novel based on Rāvaṇa, Hindu mythological character.",
+          "categories": [
+            "Indic fiction (English)"
+          ],
+          "page_count": 399,
+          "language": "hi",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 2,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9789356290983",
+      "title": "Raavan",
+      "authors": [
+        "Amish Tripathi"
+      ],
+      "publisher": "Harper Collins",
+      "published_date": "2022-07-25",
+      "description": "WITHOUT THE DARKNESS, LIGHT HAS NO PURPOSE. WITHOUT THE VILLAIN, WHAT WOULD THE GODS DO? INDIA, 3400 BCE. A land in tumult, poverty and chaos. Most people suffer quietly. A few rebel. Some fight for a better world. Some for themselves. Some don?t give a damn. Raavan. Fathered by one of the most illustrious sages of the time. Blessed by the Gods with talents beyond all. Cursed by fate to be tested to the extremes. A formidable teenage pirate, he is filled with equal parts courage, cruelty and fearsome resolve. A resolve to be a giant among men, to conquer, plunder, and seize the greatness that he thinks is his right. A man of contrasts, of brutal violence and scholarly knowledge. A man who will love without reward and kill without remorse. This exhilarating third book of the Ram Chandra series sheds light on Raavan, the king of Lanka. And the light shines on darkness of the darkest kind. Is he the greatest villain in history or just a man in a dark place, all the time? Read the epic tale of one of the most complex, violent, passionate and accomplished men of all time.",
+      "categories": [
+        "Fiction"
+      ],
+      "page_count": 332,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 22.659574468085104
+    }
+  },
+  {
+    "title": "FUTURE POLITICS OXFORD",
+    "author": "",
+    "confidence": 0.95,
+    "bbox": [
+      3629,
+      135,
+      3856,
+      1374
+    ],
+    "raw_text": "FUTURE POLITICS OXFORD",
+    "cleaned_title": "FUTURE POLITICS OXFORD",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "0198848927",
+        "title": "Future Politics",
+        "authors": [
+          "Jamie Susskind"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "published_date": "2020-03-26",
+        "description": "Politics in the Twentieth Century was dominated by a single question: how much of our collective life should be determined by the state, and what should be left to the market and civil society? Now the debate is different: to what extent should our lives be directed and controlled by powerful digital systems - and on what terms? Digital technologies - from artificial intelligence to blockchain, from robotics to virtual reality - are transforming the way we live together. Those who control the most powerful technologies are increasingly able to control the rest of us. As time goes on, these powerful entities - usually big tech firms and the state - will set the limits of our liberty, decreeing what may be done and what is forbidden. Their algorithms will determine vital questions of social justice. In their hands, democracy will flourish or decay. A landmark work of political theory, Future Politics challenges readers to rethink what it means to be free or equal, what it means to have power or property, and what it means for a political system to be just or democratic. In a time of rapid and relentless changes, it is a book about how we can - and must - regain control. Winner of the Estoril Global Issues Distinguished Book Prize.",
+        "categories": [
+          "Political Science"
+        ],
+        "page_count": 544,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 57.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "",
+          "title": "From Politics Past to Politics Future",
+          "authors": [
+            "Alan Mayne"
+          ],
+          "publisher": "Praeger",
+          "published_date": "1999-03-30",
+          "description": "Mayne provides an integrated analysis of contemporary and future politics and government. He first examines major problems and issues occurring worldwide, surveys different regimes, and assesses the wide variety of active and emerging political movements. Mayne then explores political paradigms and ideologies through a main political spectrum to various alternatives. He outlines some possible elements for a new political paradigm that would be holistic in several different ways. Finally, he outlines scenarios for three possible futures and presents conclusions that indicate what can be done to achieve a political transiton to maximize the prospects for a good human future in the 21st century.",
+          "categories": [
+            "Philosophy"
+          ],
+          "page_count": 344,
+          "language": "en",
+          "search_strategy": "Cleaned title: FUTURE POLITICS",
+          "priority": 4,
+          "confidence_score": 57.0
+        },
+        {
+          "isbn": "",
+          "title": "Politics of the Future",
+          "authors": [
+            "Christine Jennett",
+            "Randal G. Stewart"
+          ],
+          "publisher": "South Melbourne : MacMillan",
+          "published_date": "1989",
+          "description": "",
+          "categories": [
+            "Political Science"
+          ],
+          "page_count": 496,
+          "language": "en",
+          "search_strategy": "Cleaned title: FUTURE POLITICS",
+          "priority": 4,
+          "confidence_score": 54.0
+        },
+        {
+          "isbn": "",
+          "title": "Regime Politics",
+          "authors": [
+            "Clarence Nathan Stone"
+          ],
+          "publisher": "",
+          "published_date": "1989",
+          "description": "From the end of Georgia's white primary in 1946 to the present, Atlanta has been a community of growing black electoral strength and stable white economic power. Yet the ballot box and investment money never became opposing weapons in a battle for domination. Instead, Atlanta experienced the emergence and evolution of a biracial coalition. Although beset by changing conditions and significant cost pressures, this coalition has remained intact. At critical junctures forces of cooperation overcame antagonisms of race and ideology. While retaining a critical distance from rational choice theory, author Clarence Stone finds the problem of collective action to be centrally important. The urban condition in America is one of weak and diffuse authority, and this situation favors any group that can act cohesively and control a substantial body of resources. Those endowed with a capacity to promote cooperation can attract allies and overcome oppositional forces. On the negative side of the political ledger, Atlanta's style of civic cooperation is achieved at a cost. Despite an ambitious program of physical redevelopment, the city is second only to Newark, New Jersey, in the poverty rate. Social problems, conflict of interest issues, and inattention to the production potential of a large lower class bespeak a regime unable to address a wide range of human needs. No simple matter of elite domination, it is a matter of governing arrangements built out of selective incentives and inside deal-making; such arrangements can serve only limited purposes. The capacity of urban regimes to bring about elaborate forms of physical redevelopment should not blind us to their incapacity to address deeply rooted social problems. Stone takes the historical approach seriously. The flow of events enables us to see how some groups deploy their resource advantages to fashion governing arrangements to their liking. But no one enjoys a completely free hand; some arrangements are more workable than others. Stone's theory-minded analysis of key events enables us to ask why and what else might be done. Regime Politics offers readers a political history of postwar Atlanta and an elegant, innovative, and incisive conceptual framework destined to influence the way urban politics is studied.",
+          "categories": [
+            "History"
+          ],
+          "page_count": 336,
+          "language": "en",
+          "search_strategy": "Cleaned title: FUTURE POLITICS",
+          "priority": 4,
+          "confidence_score": 39.0
+        },
+        {
+          "isbn": "",
+          "title": "Future Politics; Prospectives on American and Comparative Political Institutions",
+          "authors": [
+            "Ernest D. Giglio",
+            "John J. Schrems"
+          ],
+          "publisher": "",
+          "published_date": "1971",
+          "description": "",
+          "categories": [
+            "Political Science"
+          ],
+          "page_count": 328,
+          "language": "en",
+          "search_strategy": "Cleaned title: FUTURE POLITICS",
+          "priority": 4,
+          "confidence_score": 25.0
+        },
+        {
+          "isbn": "9781135010935",
+          "title": "Networked Governance and Transatlantic Relations",
+          "authors": [
+            "Gabriella Paar-Jakli"
+          ],
+          "publisher": "Routledge",
+          "published_date": "2014-04-29",
+          "description": "In today’s complex and interconnected world, scholars of international relations seek to better understand challenges spurred by intensified global communication and interaction. The complex connectedness of modern society and politics compels us to investigate the pattern of interconnections among actors who inhabit social and political spaces. Gabriella Paár-Jákli's study aims to advance theory and practice by examining the networks used by specialists in North America and Europe to achieve their policy goals in the area of science and technology. Her book suggests that to overcome policy problems transnationally, three critical factors should be considered. First, as science and technology policy becomes increasingly critical to resolving global issues, it should be regarded as an integral element of the foreign policy process. Second, as liberal international relations theory argues, the increasing role of NGOs must be taken seriously alongside states as vital agents of policy reform. Third, as transatlantic relations remain center to maintaining the global order, they must be reconsidered. Paar-Jakli assesses the role of digital networks as facilitators of regional cooperation. Utilizing various techniques of social network analysis, her research indicates an active and structurally discernible network in cyberspace among transatlantic organizations, and demonstrates the role of virtual networks as facilitators of cooperative arrangements in transatlantic relations. Paár-Jákli's original research uses social network analysis to investigate transatlantic cooperation, a new approach that will be noteworthy to network and transatlantic scholars as well as policymakers.",
+          "categories": [
+            "Political Science"
+          ],
+          "page_count": 214,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 9,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "0198848927",
+      "title": "Future Politics",
+      "authors": [
+        "Jamie Susskind"
+      ],
+      "publisher": "Oxford University Press, USA",
+      "published_date": "2020-03-26",
+      "description": "Politics in the Twentieth Century was dominated by a single question: how much of our collective life should be determined by the state, and what should be left to the market and civil society? Now the debate is different: to what extent should our lives be directed and controlled by powerful digital systems - and on what terms? Digital technologies - from artificial intelligence to blockchain, from robotics to virtual reality - are transforming the way we live together. Those who control the most powerful technologies are increasingly able to control the rest of us. As time goes on, these powerful entities - usually big tech firms and the state - will set the limits of our liberty, decreeing what may be done and what is forbidden. Their algorithms will determine vital questions of social justice. In their hands, democracy will flourish or decay. A landmark work of political theory, Future Politics challenges readers to rethink what it means to be free or equal, what it means to have power or property, and what it means for a political system to be just or democratic. In a time of rapid and relentless changes, it is a book about how we can - and must - regain control. Winner of the Estoril Global Issues Distinguished Book Prize.",
+      "categories": [
+        "Political Science"
+      ],
+      "page_count": 544,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 57.0
+    }
+  },
+  {
+    "title": "WILLIAM DALRYMPLE NINE LIVES R S",
+    "author": "",
+    "confidence": 0.8666666666666667,
+    "bbox": [
+      831,
+      339,
+      981,
+      1391
+    ],
+    "raw_text": "WILLIAM DALRYMPLE NINE LIVES R S",
+    "cleaned_title": "WILLIAM DALRYMPLE NINE LIVES",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "Books in Series",
+        "authors": [],
+        "publisher": "",
+        "published_date": "1985",
+        "description": "Vols. for 1980- issued in three parts: Series, Authors, and Titles.",
+        "categories": [
+          "Monographic series"
+        ],
+        "page_count": 1858,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 15.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "",
+          "title": "Leigh Hunt's London Journal",
+          "authors": [],
+          "publisher": "",
+          "published_date": "1834",
+          "description": "",
+          "categories": [],
+          "page_count": 684,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 7.0
+        },
+        {
+          "isbn": "",
+          "title": "A New English Dictionary on Historical Principles: part 1. H (1901)",
+          "authors": [
+            "James Augustus Henry Murray"
+          ],
+          "publisher": "",
+          "published_date": "1901",
+          "description": "",
+          "categories": [
+            "English language"
+          ],
+          "page_count": 772,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 7.0
+        },
+        {
+          "isbn": "",
+          "title": "Scientific and Technical Books in Print",
+          "authors": [],
+          "publisher": "",
+          "published_date": "1972",
+          "description": "",
+          "categories": [
+            "Engineering"
+          ],
+          "page_count": 1630,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 7.0
+        }
+      ],
+      "total_found": 4,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "",
+      "title": "Books in Series",
+      "authors": [],
+      "publisher": "",
+      "published_date": "1985",
+      "description": "Vols. for 1980- issued in three parts: Series, Authors, and Titles.",
+      "categories": [
+        "Monographic series"
+      ],
+      "page_count": 1858,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 15.0
+    }
+  },
+  {
+    "title": "SUSANNA CLARKE PIRANEST",
+    "author": "",
+    "confidence": 0.95,
+    "bbox": [
+      1497,
+      185,
+      1662,
+      1405
+    ],
+    "raw_text": "SUSANNA CLARKE PIRANEST",
+    "cleaned_title": "SUSANNA CLARKE PIRANEST",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {},
+      "alternative_matches": [],
+      "total_found": 0,
+      "search_performed": true
+    },
+    "google_books_metadata": {}
+  },
+  {
+    "title": "CLIVE THOMPSON CODERS =",
+    "author": "",
+    "confidence": 0.8875,
+    "bbox": [
+      3840,
+      112,
+      4040,
+      1362
+    ],
+    "raw_text": "CLIVE THOMPSON CODERS =",
+    "cleaned_title": "CLIVE THOMPSON CODERS",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "ZUSAMMENFASSUNG - Coders / Kodierer : Die Entstehung eines neuen Volkes und die Umgestaltung der Welt von Clive Thompson",
+        "authors": [
+          "Shortcut Edition"
+        ],
+        "publisher": "Shortcut Edition",
+        "published_date": "",
+        "description": "Durch die Lektüre dieser Zusammenfassung werden Sie die Welt des Computercodes, seine guten und schlechten Seiten entdecken. Sie werden auch feststellen, : dass in den 1950er und 1960er Jahren die meisten Programmierer Frauen waren; dass das Klischee des introvertierten und asozialen Computerfreaks heute durch die Massifizierung des Berufs in Frage gestellt wird; dass die libertäre Ideologie unter Computerprogrammierern weit verbreitet ist dass künstliche Intelligenz sowohl ein Fortschritt als auch eine Bedrohung ist, die kontrolliert werden muss. Sie nutzen jeden Tag Software und Anwendungen, aber Sie wissen wahrscheinlich nicht, wie sie hergestellt werden. Hinter Ihren Bildschirmen verbergen sich Tausende von Codezeilen, die es der Maschine (Ihrem Computer, Ihrem Telefon und sogar Ihrem Auto) ermöglichen, mit Ihnen zu interagieren und das zu tun, was Sie ihr auftragen. Diese Codezeilen werden von Männern und Frauen geschrieben. Wer sind sie? Tauchen Sie jenseits der Klischees ein in das geheime Universum derer, die die Welt von morgen gestalten!",
+        "categories": [
+          "Business & Economics"
+        ],
+        "page_count": 19,
+        "language": "de",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 65.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "",
+          "title": "SUMMARY - Coders: The Making Of A New Tribe And The Remaking Of The World By Clive Thompson",
+          "authors": [
+            "Shortcut Edition"
+          ],
+          "publisher": "Shortcut Edition",
+          "published_date": "2021-06-22",
+          "description": "* Our summary is short, simple and pragmatic. It allows you to have the essential ideas of a big book in less than 30 minutes. By reading this summary, you will discover the world of computer code, its good and bad sides. You will also discover : that in the 1950s and 1960s, most programmers were women; that the stereotype of the introverted and asocial geek coder is now challenged by the massification of the profession; that the libertarian ideology is widespread among computer programmers; that artificial intelligence is both a progress and a threat, which must be controlled. You use software and applications every day, but you probably don't know how they are made. Behind your screens, there are thousands of lines of code that allow the machine (your computer, your phone, and even your car) to interact with you and do what you tell it to do. These lines of code are written by men and women. Who are they? Beyond the clichés, enter the secret universe of those who make the world of tomorrow! *Buy now the summary of this book for the modest price of a cup of coffee!",
+          "categories": [
+            "Business & Economics"
+          ],
+          "page_count": 34,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 51.05263157894737
+        },
+        {
+          "isbn": "",
+          "title": "SAMENVATTING - Coders: De vorming van een nieuwe stam en het herschikken van de wereld door Clive Thompson",
+          "authors": [
+            "Shortcut Edition"
+          ],
+          "publisher": "Shortcut Edition",
+          "published_date": "",
+          "description": "Door deze samenvatting te lezen, ontdek je de wereld van computercode en de goede en slechte kanten ervan. Je zult ook ontdekken : dat in de jaren 1950 en 1960 de meeste programmeurs vrouwen waren; dat het stereotype van de introverte en asociale geek nu wordt uitgedaagd door de massificatie van het beroep; dat de libertaire ideologie wijdverbreid is onder computerprogrammeurs; dat kunstmatige intelligentie zowel een vooruitgang als een bedreiging is, die onder controle moet worden gehouden. Je gebruikt elke dag software en applicaties, maar je weet waarschijnlijk niet hoe ze worden gemaakt. Achter je schermen zitten duizenden regels code die ervoor zorgen dat de machine (je computer, je telefoon en zelfs je auto) met je kan communiceren en kan doen wat jij hem opdraagt. Deze regels code zijn geschreven door mannen en vrouwen. Wie zijn dat? Ga verder dan de clichés en betreed het geheime universum van degenen die de wereld van morgen maken!",
+          "categories": [
+            "Business & Economics"
+          ],
+          "page_count": 19,
+          "language": "nl",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 46.05263157894737
+        },
+        {
+          "isbn": "",
+          "title": "Subject Guide to Books in Print",
+          "authors": [],
+          "publisher": "",
+          "published_date": "1971",
+          "description": "",
+          "categories": [
+            "American literature"
+          ],
+          "page_count": 2254,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 7.0
+        }
+      ],
+      "total_found": 4,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "",
+      "title": "ZUSAMMENFASSUNG - Coders / Kodierer : Die Entstehung eines neuen Volkes und die Umgestaltung der Welt von Clive Thompson",
+      "authors": [
+        "Shortcut Edition"
+      ],
+      "publisher": "Shortcut Edition",
+      "published_date": "",
+      "description": "Durch die Lektüre dieser Zusammenfassung werden Sie die Welt des Computercodes, seine guten und schlechten Seiten entdecken. Sie werden auch feststellen, : dass in den 1950er und 1960er Jahren die meisten Programmierer Frauen waren; dass das Klischee des introvertierten und asozialen Computerfreaks heute durch die Massifizierung des Berufs in Frage gestellt wird; dass die libertäre Ideologie unter Computerprogrammierern weit verbreitet ist dass künstliche Intelligenz sowohl ein Fortschritt als auch eine Bedrohung ist, die kontrolliert werden muss. Sie nutzen jeden Tag Software und Anwendungen, aber Sie wissen wahrscheinlich nicht, wie sie hergestellt werden. Hinter Ihren Bildschirmen verbergen sich Tausende von Codezeilen, die es der Maschine (Ihrem Computer, Ihrem Telefon und sogar Ihrem Auto) ermöglichen, mit Ihnen zu interagieren und das zu tun, was Sie ihr auftragen. Diese Codezeilen werden von Männern und Frauen geschrieben. Wer sind sie? Tauchen Sie jenseits der Klischees ein in das geheime Universum derer, die die Welt von morgen gestalten!",
+      "categories": [
+        "Business & Economics"
+      ],
+      "page_count": 19,
+      "language": "de",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 65.0
+    }
+  },
+  {
+    "title": "NASEERUDDIN SHAH And Then One Day A Memoir",
+    "author": "",
+    "confidence": 0.9,
+    "bbox": [
+      2369,
+      123,
+      2577,
+      1368
+    ],
+    "raw_text": "NASEERUDDIN SHAH And Then One Day A Memoir",
+    "cleaned_title": "NASEERUDDIN SHAH And Then One Day Memoir",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "0670087645",
+        "title": "Naseeruddin Shah",
+        "authors": [
+          "Naseeruddin Shah"
+        ],
+        "publisher": "",
+        "published_date": "2014",
+        "description": "Autobiography of an Indian motion picture actor.",
+        "categories": [
+          "Actors"
+        ],
+        "page_count": 316,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 41.470588235294116
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9789351188407",
+          "title": "And Then One Day",
+          "authors": [
+            "Naseeruddin Shah"
+          ],
+          "publisher": "Penguin UK",
+          "published_date": "2015-11-10",
+          "description": "Naseeruddin Shah’s sparkling memoir of his early years, ‘from zero to thirty-two’, spans his extraordinary journey from a feudal hamlet near Meerut, to Catholic schools in Nainital and Ajmer, and finally to stage and film stardom in Mumbai. Along the way, he recounts his passages through Aligarh University, the National School of Drama and the Film and Television Institute of India, where his luck finally began to change. And Then One Day tells a compelling tale, written with rare honesty and consummate elegance, leavened with tongue-in-cheek humour. There are moving portraits of family members, darkly funny accounts of his schooldays, and vivid cameos of directors and actors he has worked with, among them Ebrahim Alkazi, Shyam Benegal, Girish Karnad, Om Puri and Shabana Azmi. The accounts of his struggle to earn a living through acting, his experiments with the craft, his love affairs, his early marriage, his successes and failures are narrated with remarkable frankness and objective self-assessment. Brimming with delightful anecdotes as well as poignant, often painful revelations, this book is a tour de force.",
+          "categories": [
+            "Biography & Autobiography"
+          ],
+          "page_count": 404,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 37.94117647058823
+        },
+        {
+          "isbn": "9789353055530",
+          "title": "Aur Phir Ek Din",
+          "authors": [
+            "Naseeruddin Shah"
+          ],
+          "publisher": "Penguin Random House India Private Limited",
+          "published_date": "2019-05-31",
+          "description": "Naseeruddin Shah's sparkling memoir of his early years, 'from zero to thirty-two', spans his extraordinary journey from a feudal hamlet near Meerut to Catholic schools in Nainital and Ajmer, and finally to stage and film stardom in Mumbai. Along the way, he recounts his passages through Aligarh University, the National School of Drama and the Film and Television Institute of India, where his luck finally began to change. Aur Phir Ek Din tells a compelling tale, written with rare honesty and consummate elegance, leavened with tongue-in-cheek humour. There are moving portraits of family members, darkly funny accounts of his schooldays, and vivid cameos of directors and actors he has worked with, among them Ebrahim Alkazi, Shyam Benegal, Girish Karnad, Om Puri and Shabana Azmi. The accounts of his struggle to earn a living through acting, his experiments with the craft, his love affairs, his early marriage, his successes and failures are narrated with remarkable frankness and objective self-assessment. Brimming with delightful anecdotes as well as poignant, often painful revelations, this book is a tour de force, destined to become a classic of the genre.",
+          "categories": [
+            "Literary Collections"
+          ],
+          "page_count": 316,
+          "language": "hi",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        },
+        {
+          "isbn": "9789387326200",
+          "title": "An Ordinary Life",
+          "authors": [
+            "Nawazuddin Siddiqui",
+            "Rituparna Chatterjee"
+          ],
+          "publisher": "Penguin Random House India Private Limited",
+          "published_date": "2017-10-25",
+          "description": "A young man from small-town Budhana in Muzzaffarnagar, Uttar Pradesh, moved to Delhi to try his luck at theatre. Today, he is one of Bollywood's most sought-after actors. A versatile performer with a strong grounding in theatre, he surprises audiences with every role he plays-from Officer Khan in Kahaani, Faizal Khan in Gangs of Wasseypur and Shaikh in The Lunchbox to Liak in Badlapur, Chand Nawab in Bajrangi Bhaijan and Dasrath Manjhi in Manjhi. However, the journey to fame and fortune was far from easy-over the years, Nawazuddin Siddiqui went from being a manager at a petrochemical factory in Haridwar to a watchman in Delhi. This memoir is a celebration of his life.",
+          "categories": [
+            "Performing Arts"
+          ],
+          "page_count": 223,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        },
+        {
+          "isbn": "9780062307378",
+          "title": "My Days",
+          "authors": [
+            "R. K. Narayan"
+          ],
+          "publisher": "Harper Collins",
+          "published_date": "2013-07-30",
+          "description": "\"I am inclined to call this the last chapter, but how can an autobiography have a final chapter? At best, it can only be a penultimate one; nor can it be given a rounded-off conclusion, as is possible in a work of fiction.\" So begins the last chapter of My Days, the only memoir from R. K. Narayan, hailed as \"India's most notable novelist and short-story writer\" by the New York Times Book Review. In his usual winning, humorous style, R. K. Narayan shares his life story, beginning in his grandmother's garden in Madras with his ferocious pet peacock. As a young boy with no interest in school, he trains grasshoppers, scouts, and generally takes part in life's excitements. Against the advice of all, especially his commanding headmaster father, the dreaming Narayan takes to writing fiction, and one of his pieces is accepted by Punch magazine (his \"first prestige publication\"). Soon his life includes bumbling British diplomats, curious movie moguls, evasive Indian officials, eccentric journalists, and \"the blind urge\" to fall in love. R. K. Narayan's larger-than-life perception of the human comedy is at once acute and forgiving, and always true to it.",
+          "categories": [
+            "Literary Criticism"
+          ],
+          "page_count": 133,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 15.0
+        }
+      ],
+      "total_found": 5,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "0670087645",
+      "title": "Naseeruddin Shah",
+      "authors": [
+        "Naseeruddin Shah"
+      ],
+      "publisher": "",
+      "published_date": "2014",
+      "description": "Autobiography of an Indian motion picture actor.",
+      "categories": [
+        "Actors"
+      ],
+      "page_count": 316,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 41.470588235294116
+    }
+  },
+  {
+    "title": "WILLIAM THE DALRYMPLE ANARCHY",
+    "author": "",
+    "confidence": 0.9375,
+    "bbox": [
+      2756,
+      119,
+      3048,
+      1394
+    ],
+    "raw_text": "WILLIAM THE DALRYMPLE ANARCHY",
+    "cleaned_title": "WILLIAM THE DALRYMPLE ANARCHY",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9798621352097",
+        "title": "Summary of the Anarchy by William Dalrymple | the East India Company, Corporate Violence, and the Pillage of an Empire",
+        "authors": [
+          "CTPrint"
+        ],
+        "publisher": "",
+        "published_date": "2020-03-04",
+        "description": "Summary of The Anarchy by William Dalrymple | The East India Company, Corporate Violence, and the Pillage of an Empire SYNOPSIS:Thе Anаrсhу (2019) dеtаіlѕ hоw thе Eаѕt Indіа Cоmраnу, аn Englіѕh joint-stock соrроrаtіоn, came tо rulе thе Brіtіѕh есоnоmу - and the fаtеѕ оf 200 mіllіоn South Asians. Frоm its founding in 1599 bу рrіvаtееrѕ аnd ріrаtеѕ tо its tіmе аѕ master оf thе lаrgеѕt standing аrmу in South Aѕіа, the Cоmраnу fаnnеd thе flаmеѕ оf аnаrсhу, thеn used thе resulting сhаоѕ аѕ аn opportunity tо lооt an еmріrе. ABOUT THЕ AUTHОR: Wіllіаm Dalrymple іѕ an ассlаіmеd Sсоttіѕh trаvеl wrіtеr аnd historian whose work fосuѕеѕ on Sоuth Aѕіа аnd the Mіddlе Eаѕt. In addition tо writing оvеr a dozen аwаrd-wіnnіng bооkѕ, hе hаѕ сrеаtеd TV ѕеrіеѕ, сurаtеd muѕеum еxhіbіtѕ аnd muѕіс соmріlаtіоnѕ, аnd rесеіvеd hоnоrаrу dосtоrаtеѕ frоm thrее unіvеrѕіtіеѕ. Hе hаѕ lіvеd in India оn and оff ѕіnсе 1989.DISCLAIMER: This bооk іѕ nоt mеаnt tо rерlасе thе оrіgіnаl bооk but tо ѕеrvе аѕ a companion tо іt.",
+        "categories": [],
+        "page_count": 47,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 75.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9798715215321",
+          "title": "Summary and Analysis of the Anarchy: the East India Company, Corporate Violence, and the Pillage of an Empire by William Dalrymple",
+          "authors": [
+            "Richard B. Banks"
+          ],
+          "publisher": "",
+          "published_date": "2021-03",
+          "description": "This is a Summary and Analysis of the Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire by William Dalrymple and not the original book. Contained in this book is a detailed summary and analysis of the ideas and thoughts of the author in simple and and easy-to-understand form. NOTE: This is book is an unofficial Summary and Analysis of the Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire by William Dalrymple and acts as a study guide and its not the original book by the author(William Dalrymple) How can I get this book? You can get this book by scrolling up and clicking on the \"Buy now with 1-click\" button at the top of the page.",
+          "categories": [],
+          "page_count": 48,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 58.84615384615385
+        },
+        {
+          "isbn": "",
+          "title": "Anarchy Or Order. Twelve Papers for the Times. [By Various Authors.].",
+          "authors": [
+            "ANARCHY."
+          ],
+          "publisher": "",
+          "published_date": "1914",
+          "description": "",
+          "categories": [],
+          "page_count": 125,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 30.076923076923077
+        },
+        {
+          "isbn": "",
+          "title": "The Anarchy Before the Outbreak",
+          "authors": [
+            "William Stanley MacBean Knight"
+          ],
+          "publisher": "",
+          "published_date": "1915",
+          "description": "",
+          "categories": [],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 28.076923076923077
+        },
+        {
+          "isbn": "1526656523",
+          "title": "ANARCHY",
+          "authors": [
+            "WILLIAM. DALRYMPLE"
+          ],
+          "publisher": "",
+          "published_date": "2022",
+          "description": "",
+          "categories": [],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 26.153846153846153
+        }
+      ],
+      "total_found": 5,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9798621352097",
+      "title": "Summary of the Anarchy by William Dalrymple | the East India Company, Corporate Violence, and the Pillage of an Empire",
+      "authors": [
+        "CTPrint"
+      ],
+      "publisher": "",
+      "published_date": "2020-03-04",
+      "description": "Summary of The Anarchy by William Dalrymple | The East India Company, Corporate Violence, and the Pillage of an Empire SYNOPSIS:Thе Anаrсhу (2019) dеtаіlѕ hоw thе Eаѕt Indіа Cоmраnу, аn Englіѕh joint-stock соrроrаtіоn, came tо rulе thе Brіtіѕh есоnоmу - and the fаtеѕ оf 200 mіllіоn South Asians. Frоm its founding in 1599 bу рrіvаtееrѕ аnd ріrаtеѕ tо its tіmе аѕ master оf thе lаrgеѕt standing аrmу in South Aѕіа, the Cоmраnу fаnnеd thе flаmеѕ оf аnаrсhу, thеn used thе resulting сhаоѕ аѕ аn opportunity tо lооt an еmріrе. ABOUT THЕ AUTHОR: Wіllіаm Dalrymple іѕ an ассlаіmеd Sсоttіѕh trаvеl wrіtеr аnd historian whose work fосuѕеѕ on Sоuth Aѕіа аnd the Mіddlе Eаѕt. In addition tо writing оvеr a dozen аwаrd-wіnnіng bооkѕ, hе hаѕ сrеаtеd TV ѕеrіеѕ, сurаtеd muѕеum еxhіbіtѕ аnd muѕіс соmріlаtіоnѕ, аnd rесеіvеd hоnоrаrу dосtоrаtеѕ frоm thrее unіvеrѕіtіеѕ. Hе hаѕ lіvеd in India оn and оff ѕіnсе 1989.DISCLAIMER: This bооk іѕ nоt mеаnt tо rерlасе thе оrіgіnаl bооk but tо ѕеrvе аѕ a companion tо іt.",
+      "categories": [],
+      "page_count": 47,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 75.0
+    }
+  },
+  {
+    "title": "cntxt Eating Wasps ANITA NAIR",
+    "author": "",
+    "confidence": 0.95,
+    "bbox": [
+      3030,
+      203,
+      3157,
+      1368
+    ],
+    "raw_text": "cntxt Eating Wasps ANITA NAIR",
+    "cleaned_title": "cntxt Eating Wasps ANITA NAIR",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {},
+      "alternative_matches": [],
+      "total_found": 0,
+      "search_performed": true
+    },
+    "google_books_metadata": {}
+  },
+  {
+    "title": "FEASTS AND FASTS COLLEEN TAYLOR SEN",
+    "author": "",
+    "confidence": 0.9333333333333332,
+    "bbox": [
+      0,
+      62,
+      194,
+      1428
+    ],
+    "raw_text": "FEASTS AND FASTS COLLEEN TAYLOR SEN",
+    "cleaned_title": "FEASTS AND FASTS COLLEEN TAYLOR SEN",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "0461738074",
+        "title": "Feasts and Fasts",
+        "authors": [
+          "Edward Vansittart Neale"
+        ],
+        "publisher": "",
+        "published_date": "2020-04-16",
+        "description": "This is a reproduction of the original artefact. Generally these books are created from careful scans of the original. This allows us to preserve the book accurately and present it in the way the author intended. Since the original versions are generally quite old, there may occasionally be certain imperfections within these reproductions. We're happy to make these classics available again for future generations to enjoy!",
+        "categories": [],
+        "page_count": 492,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 43.0
+      },
+      "alternative_matches": [
+        {
+          "isbn": "",
+          "title": "Feasts and Fasts Throughout the Year ... Revised Edition",
+          "authors": [
+            "Reverend j. p Valentin"
+          ],
+          "publisher": "",
+          "published_date": "1936",
+          "description": "",
+          "categories": [],
+          "page_count": 29,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 35.0
+        },
+        {
+          "isbn": "",
+          "title": "Feasts and fasts, an essay on the laws relating to Sundays and other holidays and days of fasting",
+          "authors": [
+            "Edward Vansittart Neale"
+          ],
+          "publisher": "",
+          "published_date": "1845",
+          "description": "",
+          "categories": [],
+          "page_count": 484,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 25.0
+        }
+      ],
+      "total_found": 3,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "0461738074",
+      "title": "Feasts and Fasts",
+      "authors": [
+        "Edward Vansittart Neale"
+      ],
+      "publisher": "",
+      "published_date": "2020-04-16",
+      "description": "This is a reproduction of the original artefact. Generally these books are created from careful scans of the original. This allows us to preserve the book accurately and present it in the way the author intended. Since the original versions are generally quite old, there may occasionally be certain imperfections within these reproductions. We're happy to make these classics available again for future generations to enjoy!",
+      "categories": [],
+      "page_count": 492,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 43.0
+    }
+  },
+  {
+    "title": "SACRED PLANTS of INDIA NANDITHA KRISHNA & M. AMIRTHALINGAM MOUNTAIN LAMITAY GHOSH 651 PENGUIN BOOKS",
+    "author": "",
+    "confidence": 0.9166666666666667,
+    "bbox": [
+      722,
+      348,
+      860,
+      1396
+    ],
+    "raw_text": "SACRED PLANTS of INDIA NANDITHA KRISHNA & M. AMIRTHALINGAM MOUNTAIN LAMITAY GHOSH 651 PENGUIN BOOKS",
+    "cleaned_title": "SACRED PLANTS of INDIA NANDITHA KRISHNA AMIRTHALINGAM MOUNTAIN LAMITAY GHOSH 651 PENGUIN BOOKS",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9789351186915",
+        "title": "Sacred Plants of India",
+        "authors": [
+          "Nanditha Krishna"
+        ],
+        "publisher": "Penguin UK",
+        "published_date": "2014-05-15",
+        "description": "Plants personify the divine— The Rig Veda (X.97) Trees and plants have long been held sacred to communities the world over. In India, we have a whole variety of flora that feature in our myths, our epics, our rituals, our worship and our daily life. There is the pipal, under which the Buddha meditated on the path to enlightenment; the banyan, in whose branches hide spirits; the ashoka, in a grove of which Sita sheltered when she was Ravana’s prisoner; the tulsi, without which no Hindu house is considered complete; the bilva, with whose leaves it is possible to inadvertently worship Shiva. Before temples were constructed, trees were open-air shrines sheltering the deity, and many were symbolic of the Buddha himself. Sacred Plants of India systematically lays out the sociocultural roots of the various plants found in the Indian subcontinent, while also asserting their ecological importance to our survival. Informative, thought-provoking and meticulously researched, this book draws on mythology and botany and the ancient religious traditions of India to assemble a detailed and fascinating account of India’s flora.",
+        "categories": [
+          "Literary Collections"
+        ],
+        "page_count": 385,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 28.902439024390244
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9789387741461",
+          "title": "Sacred and Magico-Religious Plants of India",
+          "authors": [
+            "S.K. Sood",
+            "V. Thakur",
+            "T.N. Lakhanpal"
+          ],
+          "publisher": "Scientific Publishers",
+          "published_date": "2005-04-01",
+          "description": "The compendium brings together for the first time, complete, up-to-date information on 469 plants of sacred and magico-religious importance from the Indian perspective. Inclusion of 12 appendices and an over 57 colour photographs are the other important features of this compilation. With its comprehensive coverage of the subject, Sacred and Magico-religious Plants of India is a vital reference source for students, teachers, scientific and university libraries, institutions and individuals active in ethnobotanical research and also to all those who are nature worshippers and eager to know more about Indian mythology.",
+          "categories": [
+            "Science"
+          ],
+          "page_count": 261,
+          "language": "en",
+          "search_strategy": "Key words: SACRED, PLANTS, INDIA",
+          "priority": 3,
+          "confidence_score": 28.902439024390244
+        },
+        {
+          "isbn": "8172334141",
+          "title": "Sacred and Magico-religious Plants of India",
+          "authors": [
+            "S. K. Sood",
+            "Vandana Thakur",
+            "T. N. Lakhanpal"
+          ],
+          "publisher": "Scientific Pub Journals Department",
+          "published_date": "2005-01-01",
+          "description": "[12] p. of plates : ill. (chiefly col.) ; 25 cm.The compendium brings together for the first time, complete, up-to-date information on 469 plants of sacred and magico-religious importance from the Indian perspective. Inclusion of 12 appendices and ...",
+          "categories": [
+            "Medical"
+          ],
+          "page_count": 237,
+          "language": "en",
+          "search_strategy": "Cleaned title: SACRED PLANTS of INDIA NANDITHA KRISHNA AMIRTHALINGAM MOUNTAIN LAMITAY GHOSH 651",
+          "priority": 4,
+          "confidence_score": 28.902439024390244
+        },
+        {
+          "isbn": "1636069835",
+          "title": "Sacred & Ritual Plants of India",
+          "authors": [],
+          "publisher": "",
+          "published_date": "2020",
+          "description": "",
+          "categories": [],
+          "page_count": 525,
+          "language": "en",
+          "search_strategy": "Key words: SACRED, PLANTS, INDIA",
+          "priority": 3,
+          "confidence_score": 25.902439024390244
+        }
+      ],
+      "total_found": 4,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9789351186915",
+      "title": "Sacred Plants of India",
+      "authors": [
+        "Nanditha Krishna"
+      ],
+      "publisher": "Penguin UK",
+      "published_date": "2014-05-15",
+      "description": "Plants personify the divine— The Rig Veda (X.97) Trees and plants have long been held sacred to communities the world over. In India, we have a whole variety of flora that feature in our myths, our epics, our rituals, our worship and our daily life. There is the pipal, under which the Buddha meditated on the path to enlightenment; the banyan, in whose branches hide spirits; the ashoka, in a grove of which Sita sheltered when she was Ravana’s prisoner; the tulsi, without which no Hindu house is considered complete; the bilva, with whose leaves it is possible to inadvertently worship Shiva. Before temples were constructed, trees were open-air shrines sheltering the deity, and many were symbolic of the Buddha himself. Sacred Plants of India systematically lays out the sociocultural roots of the various plants found in the Indian subcontinent, while also asserting their ecological importance to our survival. Informative, thought-provoking and meticulously researched, this book draws on mythology and botany and the ancient religious traditions of India to assemble a detailed and fascinating account of India’s flora.",
+      "categories": [
+        "Literary Collections"
+      ],
+      "page_count": 385,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 28.902439024390244
+    }
+  },
+  {
+    "title": "CICERONE MAP AND COMPASS",
     "author": "",
     "confidence": 0.925,
     "bbox": [
-      1270,
-      849,
-      1483,
-      2098
+      205,
+      183,
+      336,
+      1416
     ],
-    "raw_text": "NEW EDI THE MISDEM DIVERSITY AND COMPLEXITY Scott E. Page THE CASE AGAINST REALITY",
-    "cleaned_title": "NEW EDI THE MISDEM DIVERSITY AND COMPLEXITY Scott Page THE CASE AGAINST REALITY",
+    "raw_text": "CICERONE MAP AND COMPASS",
+    "cleaned_title": "CICERONE MAP AND COMPASS",
     "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "",
+        "title": "Map and Compass",
+        "authors": [
+          "Pete Hawkins"
+        ],
+        "publisher": "",
+        "published_date": "2013",
+        "description": "An instructive guidebook explaining map and compass techniques, to help readers enhance their outdoor experiences. Whether you are experienced in map-reading, or have never used a compass before, this guidebook will sharpen your skills and have you exploring new areas in no time. There are also tips for GPS and digital mapping technologies.",
+        "categories": [],
+        "page_count": 177,
+        "language": "en",
+        "search_strategy": "Key words: CICERONE, COMPASS",
+        "priority": 3,
+        "confidence_score": 52.142857142857146
+      },
+      "alternative_matches": [],
+      "total_found": 1,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "",
+      "title": "Map and Compass",
+      "authors": [
+        "Pete Hawkins"
+      ],
+      "publisher": "",
+      "published_date": "2013",
+      "description": "An instructive guidebook explaining map and compass techniques, to help readers enhance their outdoor experiences. Whether you are experienced in map-reading, or have never used a compass before, this guidebook will sharpen your skills and have you exploring new areas in no time. There are also tips for GPS and digital mapping technologies.",
+      "categories": [],
+      "page_count": 177,
+      "language": "en",
+      "search_strategy": "Key words: CICERONE, COMPASS",
+      "priority": 3,
+      "confidence_score": 52.142857142857146
+    }
+  },
+  {
+    "title": "THE ART OF CONJURING ALTERNATE REALITIES SHIVAM SHANKAR SINGH ANAND VENKATANARAYANAN",
+    "author": "",
+    "confidence": 0.9363636363636364,
+    "bbox": [
+      1362,
+      232,
+      1511,
+      1435
+    ],
+    "raw_text": "THE ART OF CONJURING ALTERNATE REALITIES SHIVAM SHANKAR SINGH ANAND VENKATANARAYANAN",
+    "cleaned_title": "THE ART OF CONJURING ALTERNATE REALITIES SHIVAM SHANKAR SINGH ANAND VENKATANARAYANAN",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9789354227806",
+        "title": "The Art Of Conjuring Alternate Realities",
+        "authors": [
+          "Shivam Shankar Singh",
+          "Anand Venkatanarayanan"
+        ],
+        "publisher": "Harper Collins",
+        "published_date": "2021-08-02",
+        "description": "HOW DO POLITICIANS IN TODAY'S world attain power? How do nations become powerful? Why do human beings follow others unquestioningly, even if it is to their own detriment? What factors determine which politicians, nations and organizations will dominate the modern world? Through much of human history, societal control was determined by militaristic strength. Individuals and tribes fought to control vital resources and land. In the next part of evolution marked by colonialism and the emergence of mega-corporations, money determined power. In the recent decade, the key to supremacy has shifted again. The power and control individuals, leaders and nations have is now determined by their ability to mould the information environment. In The Art of Conjuring Alternate Realities, Shivam Shankar Singh and Anand Venkatanarayanan dive into the operations of political parties, cyber criminals, godmen, nation states and intelligence agencies from around the world to explain how the power to manipulate your thoughts is being harnessed, and how information warfare is shaping your life and world.",
+        "categories": [
+          "Business & Economics"
+        ],
+        "page_count": 242,
+        "language": "en",
+        "search_strategy": "Key words: CONJURING, ALTERNATE, REALITIES",
+        "priority": 3,
+        "confidence_score": 43.37837837837838
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9356999767",
+          "title": "The Art of Conjuring Alternate Realities",
+          "authors": [
+            "SHIVAM SHANKAR. VENKATANARAYANAN SINGH (ANAND.)",
+            "Anand Venkatanarayanan"
+          ],
+          "publisher": "",
+          "published_date": "2024-03-29",
+          "description": "In The Art of Conjuring Alternate Realities, the authors dive into the operations of political parties, cyber criminals, godmen, nation states and intelligence agencies from around the world to explain how the power to manipulate your thoughts is being harnessed, and how information warfare is shaping your life and world.",
+          "categories": [
+            "Self-Help"
+          ],
+          "page_count": 0,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 41.37837837837838
+        }
+      ],
+      "total_found": 2,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9789354227806",
+      "title": "The Art Of Conjuring Alternate Realities",
+      "authors": [
+        "Shivam Shankar Singh",
+        "Anand Venkatanarayanan"
+      ],
+      "publisher": "Harper Collins",
+      "published_date": "2021-08-02",
+      "description": "HOW DO POLITICIANS IN TODAY'S world attain power? How do nations become powerful? Why do human beings follow others unquestioningly, even if it is to their own detriment? What factors determine which politicians, nations and organizations will dominate the modern world? Through much of human history, societal control was determined by militaristic strength. Individuals and tribes fought to control vital resources and land. In the next part of evolution marked by colonialism and the emergence of mega-corporations, money determined power. In the recent decade, the key to supremacy has shifted again. The power and control individuals, leaders and nations have is now determined by their ability to mould the information environment. In The Art of Conjuring Alternate Realities, Shivam Shankar Singh and Anand Venkatanarayanan dive into the operations of political parties, cyber criminals, godmen, nation states and intelligence agencies from around the world to explain how the power to manipulate your thoughts is being harnessed, and how information warfare is shaping your life and world.",
+      "categories": [
+        "Business & Economics"
+      ],
+      "page_count": 242,
+      "language": "en",
+      "search_strategy": "Key words: CONJURING, ALTERNATE, REALITIES",
+      "priority": 3,
+      "confidence_score": 43.37837837837838
+    }
+  },
+  {
+    "title": "Setiya MIDLIFE P a Philosophical Guide A R A D",
+    "author": "",
+    "confidence": 0.8,
+    "bbox": [
+      1236,
+      278,
+      1382,
+      1397
+    ],
+    "raw_text": "Setiya MIDLIFE P a Philosophical Guide A R A D",
+    "cleaned_title": "Setiya MIDLIFE Philosophical Guide",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {
+        "isbn": "9781400888474",
+        "title": "Midlife",
+        "authors": [
+          "Kieran Setiya"
+        ],
+        "publisher": "Princeton University Press",
+        "published_date": "2017-09-22",
+        "description": "Philosophical wisdom and practical advice for overcoming the problems of middle age How can you reconcile yourself with the lives you will never lead, with possibilities foreclosed, and with nostalgia for lost youth? How can you accept the failings of the past, the sense of futility in the tasks that consume the present, and the prospect of death that blights the future? In this self-help book with a difference, Kieran Setiya confronts the inevitable challenges of adulthood and middle age, showing how philosophy can help you thrive. You will learn why missing out might be a good thing, how options are overrated, and when you should be glad you made a mistake. You will be introduced to philosophical consolations for mortality. And you will learn what it would mean to live in the present, how it could solve your midlife crisis, and why meditation helps. Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and Simone de Beauvoir, as well as drawing on Setiya’s own experience, Midlife combines imaginative ideas, surprising insights, and practical advice. Writing with wisdom and wit, Setiya makes a wry but passionate case for philosophy as a guide to life.",
+        "categories": [
+          "Philosophy"
+        ],
+        "page_count": 197,
+        "language": "en",
+        "search_strategy": "Exact title",
+        "priority": 2,
+        "confidence_score": 28.548387096774192
+      },
+      "alternative_matches": [
+        {
+          "isbn": "9788835887843",
+          "title": "Midlife Crisis",
+          "authors": [
+            "Horton Knight"
+          ],
+          "publisher": "Self Publisher",
+          "published_date": "2020-09-01",
+          "description": "The following topics are included in this 2-book combo: Book 1: This book is focused on the many aspects that pertain to a midlife crisis, including the definition, the despair, the drama, and the effects of it. For example, in this guide, you will find more information about what you should do if you are in a midlife crisis to minimize negative impacts on your life. Another hot topic is what happens specifically to many women if they are in a midlife crisis. Furthermore, we’ll talk about handling a partner who is that stage of life and various tips you can use to improve your life. Book 2: Many people worry about their finances, their lost opportunities, their health, and age at a certain time in life. But many of these worries can be turned into positive changes and adaptations. In this book, golden tips will be given you to look at life in an optimistic light to beat the downsides of a midlife crisis. Factors that can contribute to your mindset are finding new opportunities, digging into philosophy, reassessing your finances, reverse aging, dealing with grief, seeing the good in this important life stage, etc. I encourage you to invest a few bucks into turning your life into something more positive. This stage in life can be a great thing for you if you let it.",
+          "categories": [
+            "Family & Relationships"
+          ],
+          "page_count": 84,
+          "language": "en",
+          "search_strategy": "Exact title",
+          "priority": 2,
+          "confidence_score": 28.548387096774192
+        }
+      ],
+      "total_found": 2,
+      "search_performed": true
+    },
+    "google_books_metadata": {
+      "isbn": "9781400888474",
+      "title": "Midlife",
+      "authors": [
+        "Kieran Setiya"
+      ],
+      "publisher": "Princeton University Press",
+      "published_date": "2017-09-22",
+      "description": "Philosophical wisdom and practical advice for overcoming the problems of middle age How can you reconcile yourself with the lives you will never lead, with possibilities foreclosed, and with nostalgia for lost youth? How can you accept the failings of the past, the sense of futility in the tasks that consume the present, and the prospect of death that blights the future? In this self-help book with a difference, Kieran Setiya confronts the inevitable challenges of adulthood and middle age, showing how philosophy can help you thrive. You will learn why missing out might be a good thing, how options are overrated, and when you should be glad you made a mistake. You will be introduced to philosophical consolations for mortality. And you will learn what it would mean to live in the present, how it could solve your midlife crisis, and why meditation helps. Ranging from Aristotle, Schopenhauer, and John Stuart Mill to Virginia Woolf and Simone de Beauvoir, as well as drawing on Setiya’s own experience, Midlife combines imaginative ideas, surprising insights, and practical advice. Writing with wisdom and wit, Setiya makes a wry but passionate case for philosophy as a guide to life.",
+      "categories": [
+        "Philosophy"
+      ],
+      "page_count": 197,
+      "language": "en",
+      "search_strategy": "Exact title",
+      "priority": 2,
+      "confidence_score": 28.548387096774192
+    }
+  },
+  {
+    "title": "E KNOPF T I DAV E E G E P A R LU RD SE",
+    "author": "",
+    "confidence": 0.77,
+    "bbox": [
+      1136,
+      311,
+      1265,
+      1400
+    ],
+    "raw_text": "E KNOPF T I DAV E E G E P A R LU RD SE",
+    "cleaned_title": "KNOPF DAV",
+    "cleaned_author": "",
+    "google_books_search": {
+      "best_match": {},
+      "alternative_matches": [],
+      "total_found": 0,
+      "search_performed": true
+    },
     "google_books_metadata": {}
   }
 ]

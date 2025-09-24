@@ -939,13 +939,19 @@ class BookSpineDetector:
                         box_height = y2 - y1
                         aspect_ratio = box_height / box_width if box_width > 0 else 0
 
-                        # Book spines should be taller than wide (aspect ratio > 1)
+                        # Log all detections for debugging
+                        class_name = r.names.get(class_id, "unknown") if hasattr(r, 'names') else "unknown"
+                        logger.info(f"YOLO detected: class_id={class_id}, class_name={class_name}, confidence={confidence:.2f}, "
+                                  f"box={box_width}x{box_height}, aspect_ratio={aspect_ratio:.2f}")
+
+                        # Accept any reasonable object that could be a book spine
+                        # YOLOv8 might detect books as "book" (class_id=84) or other objects
                         if (
-                            confidence > 0.3
-                            and box_width > 20
-                            and box_height > 50  # Minimum size
-                            and aspect_ratio > 1.5
-                        ):  # Should be tall and narrow
+                            confidence > 0.1  # Lower threshold to see more detections
+                            and box_width > 10  # Lower minimum size
+                            and box_height > 30  # Lower minimum size
+                            and aspect_ratio > 0.5  # More lenient aspect ratio
+                        ):
                             spine_boxes.append((int(x1), int(y1), int(x2), int(y2)))
 
             logger.info(f"YOLO detected {len(spine_boxes)} potential book spines")
@@ -1154,8 +1160,12 @@ class BookSpineDetector:
                     result = self.preprocessor.preprocess_for_ocr(spine_region, spine_height)
                     if isinstance(result, tuple) and len(result) == 2:
                         processed_image, metadata = result
+                    elif isinstance(result, np.ndarray):
+                        # Handle case where only image is returned
+                        processed_image = result
+                        metadata = {}
                     else:
-                        logger.error(f"Unexpected result from preprocess_for_ocr: {result}")
+                        logger.warning(f"Unexpected result from preprocess_for_ocr: {type(result)}")
                         processed_image = spine_region
                         metadata = {}
                 except Exception as e:
@@ -1229,54 +1239,329 @@ class BookSpineDetector:
 
         return book_spines
 
+    def draw_bounding_boxes_and_save(
+        self,
+        image_path: str,
+        book_spines: List[BookSpine],
+        output_path: str = None
+    ) -> str:
+        """Draw bounding boxes around detected book spines and save the annotated image"""
+
+        # Load the original image
+        image = cv2.imread(image_path)
+        if image is None:
+            raise ValueError(f"Could not load image: {image_path}")
+
+        # Create a copy for annotation
+        annotated_image = image.copy()
+
+        # Color palette for different spines
+        colors = [
+            (0, 255, 0),    # Green
+            (255, 0, 0),    # Blue
+            (0, 0, 255),    # Red
+            (255, 255, 0),  # Cyan
+            (255, 0, 255),  # Magenta
+            (0, 255, 255),  # Yellow
+            (128, 0, 128),  # Purple
+            (255, 165, 0),  # Orange
+            (0, 128, 128),  # Teal
+            (128, 128, 0),  # Olive
+        ]
+
+        # Draw bounding boxes and labels
+        for i, spine in enumerate(book_spines):
+            x1, y1, x2, y2 = spine.bbox
+            color = colors[i % len(colors)]
+
+            # Draw bounding box
+            cv2.rectangle(annotated_image, (x1, y1), (x2, y2), color, 2)
+
+            # Prepare label text
+            title_text = spine.title[:25] + "..." if len(spine.title) > 25 else spine.title
+            author_text = spine.author[:20] + "..." if len(spine.author) > 20 else spine.author
+            confidence_text = f"{spine.confidence:.2f}"
+
+            # Create multi-line label
+            label_lines = []
+            if title_text:
+                label_lines.append(f"Title: {title_text}")
+            if author_text:
+                label_lines.append(f"Author: {author_text}")
+            label_lines.append(f"Conf: {confidence_text}")
+            label_lines.append(f"Spine #{i+1}")
+
+            # Calculate label background size
+            font = cv2.FONT_HERSHEY_SIMPLEX
+            font_scale = 0.4
+            thickness = 1
+            line_height = 15
+
+            # Find the maximum text width
+            max_width = 0
+            for line in label_lines:
+                (text_width, text_height), _ = cv2.getTextSize(line, font, font_scale, thickness)
+                max_width = max(max_width, text_width)
+
+            # Calculate label position (above the bounding box if possible)
+            label_height = len(label_lines) * line_height + 10
+            label_y = max(y1 - label_height - 5, 0)
+            if label_y < label_height:  # If not enough space above, put it below
+                label_y = y2 + 5
+
+            label_x = max(x1, 0)
+
+            # Draw label background
+            cv2.rectangle(
+                annotated_image,
+                (label_x, label_y),
+                (label_x + max_width + 10, label_y + label_height),
+                color,
+                -1
+            )
+
+            # Add border around label background
+            cv2.rectangle(
+                annotated_image,
+                (label_x, label_y),
+                (label_x + max_width + 10, label_y + label_height),
+                (0, 0, 0),
+                1
+            )
+
+            # Draw text lines
+            for j, line in enumerate(label_lines):
+                text_y = label_y + 15 + (j * line_height)
+                cv2.putText(
+                    annotated_image,
+                    line,
+                    (label_x + 5, text_y),
+                    font,
+                    font_scale,
+                    (255, 255, 255),  # White text
+                    thickness,
+                    cv2.LINE_AA
+                )
+
+        # Generate output path if not provided
+        if output_path is None:
+            input_path = Path(image_path)
+            output_path = str(input_path.parent / f"{input_path.stem}_annotated{input_path.suffix}")
+
+        # Save the annotated image
+        success = cv2.imwrite(output_path, annotated_image)
+        if not success:
+            raise ValueError(f"Failed to save annotated image to: {output_path}")
+
+        logger.info(f"Saved annotated image with {len(book_spines)} bounding boxes to: {output_path}")
+        return output_path
+
 
 def lookup_book_metadata_free(title: str, author: str = "") -> Dict:
-    """Look up book metadata using free APIs (Google Books, Open Library)"""
+    """Look up book metadata using free APIs with multiple search strategies"""
 
     if not title.strip():
-        return {}
+        return {"best_match": {}, "partial_matches": []}
 
-    # Try Google Books API first
-    try:
-        query_parts = []
-        if title:
-            query_parts.append(f'intitle:"{title}"')
-        if author:
-            query_parts.append(f'inauthor:"{author}"')
+    all_results = []
+    search_strategies = []
 
-        query = " ".join(query_parts)
-        url = "https://www.googleapis.com/books/v1/volumes"
-        params = {"q": query, "maxResults": 1}
+    # Strategy 1: Exact title and author match
+    if title and author:
+        search_strategies.append({
+            "query": f'intitle:"{title}" inauthor:"{author}"',
+            "description": "Exact title and author",
+            "priority": 1
+        })
 
-        response = requests.get(url, params=params, timeout=10)
-        response.raise_for_status()
-        data = response.json()
+    # Strategy 2: Exact title only
+    if title:
+        search_strategies.append({
+            "query": f'intitle:"{title}"',
+            "description": "Exact title",
+            "priority": 2
+        })
 
-        if data.get("totalItems", 0) > 0:
-            book = data["items"][0]["volumeInfo"]
+    # Strategy 3: Individual important words from title
+    title_words = [word.strip() for word in title.split() if len(word.strip()) > 3]
+    if len(title_words) >= 2:
+        # Use first 2-3 most important words
+        important_words = title_words[:3]
+        word_query = " ".join([f'intitle:"{word}"' for word in important_words])
+        search_strategies.append({
+            "query": word_query,
+            "description": f"Key words: {', '.join(important_words)}",
+            "priority": 3
+        })
 
-            # Extract ISBN
-            isbn_list = book.get("industryIdentifiers", [])
-            isbn = ""
-            for identifier in isbn_list:
-                if identifier.get("type") in ["ISBN_13", "ISBN_10"]:
-                    isbn = identifier.get("identifier", "")
-                    break
+    # Strategy 4: Partial title search (remove common publisher words)
+    cleaned_title = title
+    publisher_words = ["BOOKS", "PRESS", "PUBLICATIONS", "PENGUIN", "CENTURY", "HARPER", "SIMON", "SCHUSTER", "OXFORD", "DOUBLEDAY"]
+    for pub_word in publisher_words:
+        cleaned_title = cleaned_title.replace(pub_word, "").strip()
 
-            return {
-                "isbn": isbn,
-                "publisher": book.get("publisher", ""),
-                "published_date": book.get("publishedDate", ""),
-                "description": book.get("description", ""),
-                "categories": book.get("categories", []),
-                "page_count": book.get("pageCount", 0),
-                "language": book.get("language", ""),
-            }
-    except Exception as e:
-        logger.error(f"Could not call Google Books API: {e}")
-        return {}
+    if cleaned_title and cleaned_title != title:
+        search_strategies.append({
+            "query": f'"{cleaned_title}"',
+            "description": f"Cleaned title: {cleaned_title}",
+            "priority": 4
+        })
 
-    return {}
+    # Strategy 5: Author name only (if available)
+    if author and len(author.strip()) > 3:
+        search_strategies.append({
+            "query": f'inauthor:"{author}"',
+            "description": f"Author: {author}",
+            "priority": 5
+        })
+
+    # Execute search strategies
+    for strategy in search_strategies:
+        try:
+            url = "https://www.googleapis.com/books/v1/volumes"
+            params = {"q": strategy["query"], "maxResults": 5}  # Get multiple results
+
+            response = requests.get(url, params=params, timeout=10)
+            response.raise_for_status()
+            data = response.json()
+
+            if data.get("totalItems", 0) > 0:
+                for item in data["items"]:
+                    book = item["volumeInfo"]
+
+                    # Extract ISBN
+                    isbn_list = book.get("industryIdentifiers", [])
+                    isbn = ""
+                    for identifier in isbn_list:
+                        if identifier.get("type") in ["ISBN_13", "ISBN_10"]:
+                            isbn = identifier.get("identifier", "")
+                            break
+
+                    book_result = {
+                        "isbn": isbn,
+                        "title": book.get("title", ""),
+                        "authors": book.get("authors", []),
+                        "publisher": book.get("publisher", ""),
+                        "published_date": book.get("publishedDate", ""),
+                        "description": book.get("description", ""),
+                        "categories": book.get("categories", []),
+                        "page_count": book.get("pageCount", 0),
+                        "language": book.get("language", ""),
+                        "search_strategy": strategy["description"],
+                        "priority": strategy["priority"],
+                        "confidence_score": calculate_match_confidence(title, author, book)
+                    }
+
+                    # Avoid duplicates based on ISBN or title
+                    is_duplicate = False
+                    for existing in all_results:
+                        if (book_result["isbn"] and book_result["isbn"] == existing.get("isbn")) or \
+                           (book_result["title"] and book_result["title"] == existing.get("title")):
+                            is_duplicate = True
+                            break
+
+                    if not is_duplicate:
+                        all_results.append(book_result)
+
+        except Exception as e:
+            logger.warning(f"Search strategy '{strategy['description']}' failed: {e}")
+            continue
+
+    # Sort results by confidence score and priority
+    all_results.sort(key=lambda x: (x["confidence_score"], -x["priority"]), reverse=True)
+
+    # Return best match and up to 5 partial matches
+    result = {
+        "best_match": all_results[0] if all_results else {},
+        "partial_matches": all_results[1:6] if len(all_results) > 1 else [],
+        "total_found": len(all_results)
+    }
+
+    return result
+
+
+def calculate_match_confidence(ocr_title: str, ocr_author: str, google_book: Dict) -> float:
+    """Calculate confidence score for how well a Google Books result matches the OCR text"""
+
+    confidence = 0.0
+    max_confidence = 100.0
+
+    book_title = google_book.get("title", "").lower()
+    book_authors = [author.lower() for author in google_book.get("authors", [])]
+    ocr_title_lower = ocr_title.lower()
+    ocr_author_lower = ocr_author.lower()
+
+    # Title matching (60% weight)
+    title_score = 0.0
+    if book_title and ocr_title_lower:
+        # Check for exact match
+        if book_title == ocr_title_lower:
+            title_score = 60.0
+        else:
+            # Check for partial matches
+            ocr_words = set(ocr_title_lower.split())
+            book_words = set(book_title.split())
+
+            if ocr_words and book_words:
+                common_words = ocr_words.intersection(book_words)
+                # Weight by length of words and total overlap
+                word_overlap = sum(len(word) for word in common_words)
+                total_word_length = sum(len(word) for word in ocr_words)
+
+                if total_word_length > 0:
+                    overlap_ratio = word_overlap / total_word_length
+                    title_score = overlap_ratio * 60.0
+
+    confidence += title_score
+
+    # Author matching (25% weight)
+    author_score = 0.0
+    if book_authors and ocr_author_lower:
+        for book_author in book_authors:
+            if book_author in ocr_author_lower or ocr_author_lower in book_author:
+                author_score = 25.0
+                break
+            # Check for partial author name matches
+            author_words = set(book_author.split())
+            ocr_author_words = set(ocr_author_lower.split())
+            if author_words.intersection(ocr_author_words):
+                author_score = max(author_score, 15.0)
+
+    confidence += author_score
+
+    # Publisher/Quality indicators (15% weight)
+    quality_score = 0.0
+
+    # Favor books with ISBN
+    if google_book.get("industryIdentifiers"):
+        quality_score += 5.0
+
+    # Favor books with descriptions
+    if google_book.get("description"):
+        quality_score += 3.0
+
+    # Favor books with page counts
+    if google_book.get("pageCount", 0) > 0:
+        quality_score += 2.0
+
+    # Favor recent publications (within last 50 years)
+    pub_date = google_book.get("publishedDate", "")
+    if pub_date:
+        try:
+            # Extract year from date string
+            import re
+            year_match = re.search(r'\d{4}', pub_date)
+            if year_match:
+                pub_year = int(year_match.group())
+                current_year = 2024  # Could use datetime.now().year
+                if current_year - pub_year <= 50:
+                    quality_score += 5.0
+        except:
+            pass
+
+    confidence += quality_score
+
+    return min(confidence, max_confidence)
 
 
 def export_results(book_spines: List[BookSpine], output_file: str) -> None:
