@@ -1,0 +1,31 @@
+{
+  "ocr_provider": "google_vision",
+  "google_vision": {
+    "enabled": true,
+    "use_fallback": true,
+    "credentials_path": "/home/jayanthbagare/Projects/service_account_key.json",
+    "project_id": "plated-cabinet-473102-r7",
+    "confidence_threshold": 0.5
+  },
+  "tesseract": {
+    "enabled": true,
+    "confidence_threshold": 60,
+    "psm": 6,
+    "oem": 1,
+    "char_whitelist": "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789.,!?:;-()[]&* "
+  },
+  "preprocessing": {
+    "debug_mode": false,
+    "min_spine_height": 50,
+    "min_spine_width": 20,
+    "min_aspect_ratio": 1.5,
+    "upscale_factor": 2,
+    "target_height": 600
+  },
+  "yolo": {
+    "model_path": "yolov8n.pt",
+    "confidence_threshold": 0.25,
+    "iou_threshold": 0.45,
+    "max_detections": 50
+  }
+}
